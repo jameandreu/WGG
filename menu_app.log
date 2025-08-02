@@ -706,3 +706,12 @@
 2025-08-01 16:07:26,428 - INFO - Application started
 2025-08-01 16:07:30,865 - INFO - Valid menu choice selected: COMPARE
 2025-08-01 16:07:30,865 - INFO - User selected: Merge feature
+2025-08-03 03:14:48,784 - INFO - Application started
+2025-08-03 03:15:00,202 - INFO - Valid menu choice selected: QUIT
+2025-08-03 03:15:00,203 - INFO - User chose to quit application
+2025-08-03 03:15:00,205 - INFO - Application shutting down
+2025-08-03 03:15:33,748 - INFO - Application started
+2025-08-03 03:16:00,339 - INFO - Application started
+2025-08-03 03:16:04,262 - INFO - Application interrupted by user (Ctrl+C)
+2025-08-03 03:16:04,263 - INFO - User chose to quit application
+2025-08-03 03:16:04,265 - INFO - Application shutting down
