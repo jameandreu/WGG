@@ -1,0 +1,1582 @@
+﻿#,Project,Tracker,Parent task,Parent task subject,Status,Priority,Subject,Author,Assignee,Updated,Category,Target version,Start date,Due date,Estimated time,Total estimated time,Spent time,Total spent time,% Done,Created,Closed,Last updated by,Related issues,Files,Original QA Start Date,Updated QA Start Date,Original Deployment Date,Updated Deployment Date,Issue Classification,Severity Level,Count of Affected Transactions,Category,Reason: Failure in Testing,Bug Found in,Level of Difficulty (Dev),Primary Dev Assignee,Secondary Dev Assignee,Work Type,Level of Difficulty (QA),Initial QA Assignee 1,Initial QA Assignee 2,Final QA Assignee,% QA Done,Ticket Type
+70087,Parañaque OBO Web (Online)_v1.0.0.b,Feature,69832,"Week of July 7 to July 11, 2025",Deploy Request,High,Notice of Compliance Email Notification Template ,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/14/2025 01:24 PM,"","",07/08/2025,07/18/2025,"","",4.50,4.50,0,07/08/2025 09:26 AM,"","Flores, Maricel F.","","clipboard-202507080925-lzhf4.png
+clipboard-202507111014-sxclp.png
+clipboard-202507111025-owhs0.png
+clipboard-202507140938-vqqv5.png
+clipboard-202507141143-inksp.png",07/10/2025,07/18/2025,07/15/2025,07/18/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+57464,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52533,Apply to All,Deploy Request,High,[03102025] ALL Types: Allow evaluators to open an application that is already opened by another evaluator,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/07/2025 10:39 AM,"","",03/31/2025,04/04/2025,"",0.00,8.25,11.25,100,03/10/2025 09:53 AM,"","Flores, Maricel F.","","clipboard-202503100951-phg5w.png
+clipboard-202503311840-iz86w.png
+clipboard-202504041454-qakda.png
+clipboard-202504071001-haiig.png
+clipboard-202504071004-mtigf.png
+clipboard-202504071004-p1ryx.png
+clipboard-202504071006-ajhe9.png",03/11/2025,04/04/2025,03/13/2025,04/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+72757,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62450,FE: Annual Inspection ,Deploy Request,Normal,Feedback: Annual Inspection,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",08/01/2025 03:26 PM,"","",07/30/2025,08/06/2025,"","",6.00,6.00,0,07/30/2025 04:10 PM,"","Palao, Dante O.","","clipboard-202507301609-vmgqr.png
+clipboard-202507301610-87faw.png
+clipboard-202507311236-sewck.png
+clipboard-202507311256-sf74x.png
+clipboard-202507311404-umbol.png
+clipboard-202508011101-6lin4.png
+clipboard-202508011512-vfe5b.png",08/01/2025,08/01/2025,08/06/2025,08/06/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+72872,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62453,BE: Certification of Records,Deploy Request,Normal,Cannot submit application to Logistics ,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",08/01/2025 03:26 PM,"","",07/31/2025,08/07/2025,"","",4.00,4.00,0,07/31/2025 02:52 PM,"","Palao, Dante O.","","Submit to Logistics - Invalid Credentials Error.mp4
+clipboard-202507311451-ho7kl.png
+clipboard-202507311512-ks6jg.png
+clipboard-202508011123-ktnnb.png
+Submit to Logistics feedback working(QA).mp4",08/04/2025,08/04/2025,08/07/2025,08/07/2025,WEB Online,"","","",Unknown,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62453,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Certification of Records,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/31/2025 04:22 PM,"","",06/27/2025,07/04/2025,"",0.00,5.25,9.25,0,04/23/2025 10:07 AM,"","Punzalan, Maurice Joyce","","clipboard-202506262054-9mxar.png
+clipboard-202506262054-weskd.png
+clipboard-202506301055-f5qle.png
+clipboard-202507032106-lat3o.png
+clipboard-202507032107-wygms.png
+clipboard-202507311359-gefie.png
+clipboard-202507311422-fwix5.png
+clipboard-202507311613-lsmsv.png
+clipboard-202507311615-wa8re.png
+BPLO to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+Submit to Logistics to BPLO Processing (QA).mp4
+clipboard-202507311619-62s5v.png
+same as applicant (QA).mp4",04/30/2025,07/04/2025,04/30/2025,07/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62452,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Certification of Records,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/31/2025 04:20 PM,"","",06/27/2025,07/04/2025,"","",5.25,5.25,0,04/23/2025 10:07 AM,"","Punzalan, Maurice Joyce","","clipboard-202506262054-yjdgi.png
+clipboard-202506262054-eq9g2.png
+clipboard-202506301050-yyurm.png
+clipboard-202507311359-uvoe2.png
+clipboard-202507311422-4bgac.png
+clipboard-202507311613-yku3c.png
+clipboard-202507311615-unl1j.png
+BPLO to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+Submit to Logistics to BPLO Processing (QA).mp4
+clipboard-202507311619-w7iif.png
+same as applicant (QA).mp4",04/30/2025,07/04/2025,04/30/2025,07/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+72564,Parañaque OBO Web (Online)_v1.0.0.b,Feature,57475,Certificate Of Occupancy,New,Normal,BE: Add Permits in PHOTOCOPY OF DULY APPROVED PERMITS section,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/31/2025 02:45 PM,"","",07/30/2025,08/01/2025,"","",0.00,0.00,0,07/29/2025 11:51 AM,"","Saflor, Elijah Z.","","clipboard-202507291151-8vhji.png
+clipboard-202507311326-l1cty.png",07/31/2025,07/31/2025,08/05/2025,08/05/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+72870,Parañaque OBO Web (Online)_v1.0.0.b,Feature,67395,Addition of Encoding of Control No.,New,Normal,Display control no. in Application Form PDF,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/31/2025 02:43 PM,"","",07/31/2025,08/08/2025,"","",0.00,0.00,0,07/31/2025 02:43 PM,"","","","clipboard-202507311442-2lks2.png
+clipboard-202507311442-a5jf8.png",08/05/2025,08/05/2025,08/08/2025,08/08/2025,WEB Online,"","","","","",,,,,,,,,,Task Ticket
+62451,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Annual Inspection ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/31/2025 02:20 PM,"","",07/11/2025,07/18/2025,"","",5.25,5.25,100,04/23/2025 10:00 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202507111753-ggr9f.png
+clipboard-202507140915-dym02.png
+clipboard-202507311307-tgcs1.png
+clipboard-202507311307-4xdv5.png
+clipboard-202507311309-ch1hk.png
+Submit to Logistics Keri (QA).mp4
+BPLO Processing status updated.png
+Verification to BPLO Processing - QA 1 - pending for bplo processing status.mp4
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+clipboard-202507311418-9nu74.png
+clipboard-202507311418-alncy.png",04/30/2025,07/18/2025,04/30/2025,07/18/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62450,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Annual Inspection ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/31/2025 02:20 PM,"","",07/11/2025,07/18/2025,"",0.00,5.25,11.25,0,04/23/2025 10:00 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202507111753-wikau.png
+clipboard-202507140849-bxawg.png
+clipboard-202507311306-dsi1d.png
+clipboard-202507311307-uss7b.png
+clipboard-202507311309-rpkee.png
+Submit to Logistics Keri (QA).mp4
+Verification to BPLO Processing - QA 1 - pending for bplo processing status.mp4
+BPLO Processing status updated.png
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+clipboard-202507311418-z3jov.png
+clipboard-202507311418-taqsg.png",04/30/2025,07/18/2025,04/30/2025,07/18/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+72589,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,72588,DEPLOYMENT FOR 07-29-2025 5:01 PM,QA Request,Normal,Deployment c/o Sir Andrew,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/30/2025 09:10 AM,"","",07/29/2025,07/30/2025,"","",1.00,1.00,100,07/29/2025 01:41 PM,"","Boiser, Rizza S.","",clipboard-202507291922-aqemg.png,07/30/2025,07/30/2025,07/30/2025,07/30/2025,WEB Online,"","","","","",EASY,"Ubag, Andrew James F.",,Overtime,,,,,,Task Ticket
+62449,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Sign Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/30/2025 08:46 AM,"","",06/25/2025,07/04/2025,"","",5.25,5.25,0,04/23/2025 09:54 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506271646-x7mll.png
+clipboard-202506271646-epg3u.png
+clipboard-202506301028-4gqgf.png
+clipboard-202507300819-ejcfa.png
+clipboard-202507300821-7pfvl.png
+clipboard-202507300832-kl6ju.png
+same as applicant address & coordinates (QA).mp4
+same as applicant address & coordinates citizen (QA).mp4
+Submit to Logistics Keri (QA).mp4
+Verification to For Delivery (QA).mp4
+clipboard-202507300845-bec7z.png
+Override Delivery Status (QA).mp4
+clipboard-202507300846-dakzw.png",04/30/2025,07/04/2025,04/30/2025,07/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+68765,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Sign Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/30/2025 08:46 AM,"","",06/27/2025,07/04/2025,"","",5.25,5.25,0,06/27/2025 10:33 AM,"","Punzalan, Maurice Joyce","","clipboard-202506271645-sxjgg.png
+clipboard-202506271645-mzhaw.png
+clipboard-202506301038-jwxft.png
+clipboard-202507300820-fblu2.png
+clipboard-202507300821-c3s6u.png
+clipboard-202507300832-vanhq.png
+same as applicant address & coordinates (QA).mp4
+same as applicant address & coordinates citizen (QA).mp4
+Submit to Logistics Keri (QA).mp4
+Verification to For Delivery (QA).mp4
+clipboard-202507300845-tjb5a.png
+Override Delivery Status (QA).mp4
+clipboard-202507300846-yfmtm.png",07/01/2025,07/04/2025,07/01/2025,07/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62444,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Demolition Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/30/2025 08:28 AM,"","",06/24/2025,07/11/2025,"","",8.00,8.00,0,04/23/2025 09:52 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506231705-btsuh.png
+clipboard-202506250853-8won3.png
+clipboard-202507031637-cwmen.png
+clipboard-202507041033-cagff.png
+clipboard-202507041513-5jxm2.png
+clipboard-202507101607-ecdfh.png
+clipboard-202507101607-4nhnd.png
+clipboard-202507101607-t8tmc.png
+clipboard-202507101608-vstz8.png
+clipboard-202507101608-s7uij.png
+clipboard-202507101609-s3m5r.png
+clipboard-202507101610-7h3bl.png
+clipboard-202507101611-jtkw7.png
+clipboard-202507300816-hw3qc.png
+clipboard-202507300818-nhq0x.png
+clipboard-202507300823-tyvi2.png
+clipboard-202507300825-dh5so.png
+clipboard-202507300826-ffqcp.png
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+same as applicant & coordinates(QA) .mp4
+Submit to Logistics Keri to BPLO Processing (QA).mp4",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62443,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Demolition Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/30/2025 08:27 AM,"","",06/24/2025,06/27/2025,"","",5.50,5.50,0,04/23/2025 09:52 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506231705-4v3jt.png
+clipboard-202506250836-95jst.png
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+same as applicant & coordinates(QA) .mp4
+Submit to Logistics Keri to BPLO Processing (QA).mp4
+clipboard-202507300815-bt5bd.png
+clipboard-202507300818-fvekh.png
+clipboard-202507300823-kllf4.png
+clipboard-202507300825-pcbxd.png
+clipboard-202507300826-qymdt.png",04/30/2025,06/27/2025,04/30/2025,06/27/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+67399,Parañaque OBO Web (Online)_v1.0.0.b,Feature,67395,Addition of Encoding of Control No.,Deploy Request,Normal,Tracking No. Generation Modification ,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/29/2025 03:29 PM,"","",07/22/2025,07/25/2025,"","",8.50,8.50,0,06/16/2025 01:53 PM,"","Boiser, Rizza S.","","clipboard-202507231419-kywux.png
+clipboard-202507231618-q0mfg.png
+clipboard-202507291458-wtx9z.png",06/27/2025,06/27/2025,07/04/2025,07/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+72580,Parañaque OBO Web (Online)_v1.0.0.a,Feature,72231,Addition of Transaction Reports [Viewing of Payment Details],New,Normal,BE: Addition of Transaction Reports [Viewing of Payment Details],"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/29/2025 01:42 PM,"","",07/28/2025,07/29/2025,"","",0.00,0.00,0,07/29/2025 01:20 PM,"","Aban, Marvin","",OBO Transaction Reports.pptx,08/01/2025,08/01/2025,08/08/2025,08/08/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+72579,Parañaque OBO Web (Online)_v1.0.0.a,Feature,72231,Addition of Transaction Reports [Viewing of Payment Details],New,Normal,FE: Addition of Transaction Reports [Viewing of Payment Details],"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/29/2025 01:41 PM,"","",07/29/2025,08/08/2025,"","",0.00,0.00,0,07/29/2025 01:20 PM,"","Aban, Marvin","",OBO Transaction Reports.pptx,08/01/2025,08/01/2025,08/08/2025,08/08/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+62448,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Fencing Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/28/2025 02:29 PM,"","",06/20/2025,07/11/2025,"","",8.00,8.00,100,04/23/2025 09:54 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506192124-hbjvi.png
+clipboard-202506201429-zpica.png
+clipboard-202507032043-oawke.png
+clipboard-202507032044-eyzri.png
+clipboard-202507032045-krtru.png
+clipboard-202507041136-dfhel.png
+clipboard-202507041529-x48i2.png
+clipboard-202507091453-txemj.png
+clipboard-202507091454-pougn.png
+clipboard-202507091455-cw3jr.png
+clipboard-202507091457-rtotf.png
+clipboard-202507091457-kqg8r.png
+clipboard-202507091458-6chmm.png
+clipboard-202507091458-rjrvk.png
+clipboard-202507091459-1dcld.png
+clipboard-202507091500-fx6hl.png
+clipboard-202507280846-3gjnv.png
+clipboard-202507280858-hdrsr.png
+same as applicant (QA Test) .mp4
+clipboard-202507281417-lq4vq.png
+submit to logistics keri (QA).mp4
+Override delivery.mp4
+Verification to For Delivery (QA).mp4
+clipboard-202507281427-on8hs.png
+clipboard-202507281428-xbfbr.png",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Overtime,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62447,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Fencing Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/28/2025 02:28 PM,"","",06/20/2025,06/20/2025,"","",5.50,5.50,0,04/23/2025 09:53 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506192125-vgoi7.png
+clipboard-202506201400-z6v4a.png
+clipboard-202507280846-hrhle.png
+clipboard-202507280857-dk7bl.png
+same as applicant (QA Test) .mp4
+clipboard-202507281417-7i09j.png
+submit to logistics keri (QA).mp4
+Override delivery.mp4
+Verification to For Delivery (QA).mp4
+clipboard-202507281427-ewdzl.png
+clipboard-202507281428-cwst6.png",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Overtime,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62442,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: PTO Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/28/2025 01:29 PM,"","",06/24/2025,07/11/2025,"","",6.25,6.25,0,04/23/2025 09:51 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506261657-raojm.png
+clipboard-202506261707-em4ih.png
+clipboard-202506301117-7bcdn.png
+clipboard-202507032101-dsqwt.png
+clipboard-202507032102-mhket.png
+clipboard-202507032102-ccxh2.png
+bandicam 2025-07-03 20-52-54-514.mp4
+clipboard-202507091513-9nphf.png
+clipboard-202507091513-lek0y.png
+clipboard-202507091515-xagkf.png
+clipboard-202507091516-jtitk.png
+clipboard-202507091516-8pkyi.png
+clipboard-202507091517-wfgzy.png
+clipboard-202507091523-fisnp.png
+clipboard-202507091533-4rvqb.png
+clipboard-202507280829-dwp3g.png
+clipboard-202507280833-dbcp2.png
+same as applicant (QA).mp4
+clipboard-202507281311-lddox.png
+Submission, Verification to BPLO Processing (QA).mp4
+clipboard-202507281323-pslaj.png
+clipboard-202507281323-mrt6y.png
+BPO Processing to For Delivery (QA).mp4
+clipboard-202507281329-8evy9.png
+Override delivery status (QA).mp4",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62428,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Electrical Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/28/2025 01:18 PM,"","",05/06/2025,07/11/2025,"","",12.50,12.50,0,04/23/2025 09:25 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202505061437-abn1u.png
+clipboard-202505061544-pwzf7.png
+clipboard-202505061605-55cf9.png
+clipboard-202505071639-kgt7u.png
+clipboard-202507031539-dpv3f.png
+bandicam 2025-07-03 10-44-44-858 62428.mp4
+bandicam 2025-07-03 13-39-47-766 62428.mp4
+bandicam 2025-07-03 15-22-04-318 62428.mp4
+bandicam 2025-07-03 15-32-39-596 62428.mp4
+clipboard-202507041444-rrzmy.png
+clipboard-202507041445-xgozl.png
+clipboard-202507041446-u3pkr.png
+clipboard-202507041446-mz2dw.png
+clipboard-202507041525-dd96o.png
+clipboard-202507110929-wxylr.png
+clipboard-202507110929-ehrpm.png
+clipboard-202507110930-iuvtb.png
+clipboard-202507110930-8tzi5.png
+clipboard-202507110931-upvp6.png
+clipboard-202507110931-pdopl.png
+clipboard-202507110933-ncvr7.png
+clipboard-202507110933-mlhhf.png
+clipboard-202507280822-5yv3c.png
+clipboard-202507280824-wimjg.png
+clipboard-202507281251-crkfj.png
+same as applicant address (QA).mp4
+clipboard-202507281300-yflzj.png
+clipboard-202507281300-uekdy.png
+BPLO Processing to For Delivery (QA) .mp4
+Override delivery status (QA).mp4
+Submit to Logistics Keri (QA).mp4
+Verification to BPLO Processing (QA).mp4",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62426,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Occupancy Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/25/2025 05:37 PM,"","",04/28/2025,05/09/2025,"","",9.25,9.25,100,04/23/2025 09:24 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202505021645-dqod6.png
+clipboard-202505021714-pgrky.png
+clipboard-202505021714-j5rt2.png
+clipboard-202505021715-qgbvd.png
+clipboard-202505051155-uztkg.png
+clipboard-202505051156-brysd.png
+clipboard-202507251202-jwvb3.png
+clipboard-202507251205-ppdnz.png
+clipboard-202507251340-vnxqz.png
+clipboard-202507251535-oiu1n.png
+Submit to logistics keri (QA).mp4
+Keri Approval to For Delivery (QA).mp4
+Verification to BPLO Processing (QA).mp4
+Override delivery (QA).mp4
+clipboard-202507251713-ul5bk.png",04/30/2025,05/09/2025,04/30/2025,05/09/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62446,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Excavation Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/25/2025 05:35 PM,"","",06/23/2025,07/11/2025,"","",6.50,6.50,0,04/23/2025 09:53 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202506231446-ukxtu.png
+clipboard-202506240821-m1rhc.png
+clipboard-202506240822-lrqkp.png
+clipboard-202507041058-gpasd.png
+clipboard-202507041449-h6egl.png
+clipboard-202507081044-firxg.png
+clipboard-202507081047-5dvp6.png
+clipboard-202507081048-shp5p.png
+clipboard-202507081050-frgs6.png
+clipboard-202507081124-xuuhu.png
+clipboard-202507081133-yjxld.png
+clipboard-202507111012-ccno8.png
+clipboard-202507111012-c0j3q.png
+clipboard-202507111013-jcdd6.png
+clipboard-202507111013-qkees.png
+clipboard-202507111014-y2g1o.png
+clipboard-202507111014-ltrfx.png
+clipboard-202507111016-shwj0.png
+clipboard-202507111016-wbgtb.png
+clipboard-202507251721-adshx.png
+clipboard-202507251721-iziq7.png
+clipboard-202507251721-tmwgq.png
+Submit to logistics Keri (QA).png.mp4
+Verification to For Delivery (QA).mp4
+Override Delivery Status (QA).mp4
+clipboard-202507251734-h24zz.png
+clipboard-202507251735-uc5ph.png",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62425,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Occupancy Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/25/2025 05:13 PM,"","",04/28/2025,05/09/2025,"","",9.25,9.25,100,04/23/2025 09:23 AM,"","Punzalan, Maurice Joyce","","template mailing info.pdf
+clipboard-202505021645-cgx5d.png
+clipboard-202505021716-zkksu.png
+clipboard-202505021716-vbasm.png
+clipboard-202505021716-5zg9r.png
+clipboard-202505021716-svxpf.png
+clipboard-202505051152-uzvas.png
+clipboard-202507251201-vehne.png
+clipboard-202507251205-fcwij.png
+clipboard-202507251535-0x79g.png
+clipboard-202507251536-xz8pc.png
+Submit to logistics keri (QA).mp4
+Keri Approval to For Delivery (QA).mp4
+Verification to BPLO Processing (QA).mp4
+Override delivery (QA).mp4
+clipboard-202507251712-ekrc0.png",04/30/2025,05/09/2025,04/30/2025,05/09/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62471,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Housing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/25/2025 05:11 PM,"","",07/03/2025,07/11/2025,"","",4.75,4.75,0,04/23/2025 11:28 AM,"","Punzalan, Maurice Joyce","","clipboard-202507011949-lkjbd.png
+clipboard-202507011949-hqkj1.png
+clipboard-202507111153-jjoa9.png
+clipboard-202507111155-friuh.png
+clipboard-202507111155-27mxi.png
+clipboard-202507111156-4hkmh.png
+clipboard-202507111156-qvnkj.png
+clipboard-202507111157-kkecj.png
+clipboard-202507111159-tudmc.png
+clipboard-202507111159-uhewa.png
+clipboard-202507251216-dou30.png
+clipboard-202507251218-yijjt.png
+clipboard-202507251340-p6shd.png
+clipboard-202507251629-yeate.png
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery status (QA).mp4
+Submit to Logistics Keri (QA).mp4
+Verification to BPLO Processing (QA).mp4
+clipboard-202507251711-arfed.png",04/30/2025,07/11/2025,04/30/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62470,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Housing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/25/2025 05:11 PM,"","",07/03/2025,07/04/2025,"","",4.50,4.50,0,04/23/2025 11:27 AM,"","Punzalan, Maurice Joyce","","clipboard-202507011949-sgmyi.png
+clipboard-202507011949-k7ifm.png
+clipboard-202507041453-vildq.png
+clipboard-202507251215-x1bda.png
+clipboard-202507251218-8fbif.png
+clipboard-202507251339-czbd3.png
+clipboard-202507251629-kgdbn.png
+BPLO Processing to For Delivery (QA).mp4
+Override Delivery status (QA).mp4
+Submit to Logistics Keri (QA).mp4
+Verification to BPLO Processing (QA).mp4
+clipboard-202507251711-kikhk.png",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+70298,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52534,Building,Deploy Request,Normal,Modify dropdown items in Use or Character of Occupancy and Classified as,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/22/2025 03:17 PM,"","",07/15/2025,07/25/2025,"",0.00,3.50,10.25,50,07/09/2025 01:32 PM,"","Cabrera, James Friam S.","","clipboard-202507161201-l2mdz.png
+clipboard-202507161201-clnt0.png
+clipboard-202507161254-xystc.png
+clipboard-202507161311-chd83.png
+clipboard-202507161315-y2mdn.png
+clipboard-202507171008-lfgd4.png
+clipboard-202507171011-zqld8.png
+clipboard-202507221517-jfwsf.png
+clipboard-202507221517-uqebg.png",07/25/2025,07/25/2025,08/01/2025,07/25/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+60077,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Monthly Allocation Refresh for Email Blast,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 02:59 PM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,0,03/31/2025 10:37 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+60084,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Allow upload of Recipients,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 10:01 AM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,0,03/31/2025 10:39 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+60082,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Allow Save as Draft,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 10:01 AM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,0,03/31/2025 10:38 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+60075,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Add data coverage,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 10:01 AM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,0,03/31/2025 10:35 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+60085,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Email Body,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 10:01 AM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,0,03/31/2025 10:40 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+60083,QC CSO Web (Online)_v1.0.0.a,Feature,60071,Email Blast Management,New,Normal,Allow Manual Input of Recipients,"Daluz, Janine C.","Ubag, Andrew James F.",07/22/2025 10:01 AM,"","",07/31/2025,07/31/2025,"","",0.00,0.00,100,03/31/2025 10:39 AM,"","Ubag, Andrew James F.","","",05/08/2025,05/08/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,,,Task Ticket
+71496,Parañaque OBO Web (Online)_v1.0.0.b,Feedback,70298,Modify dropdown items in Use or Character of Occupancy and Classified as,Deploy Request,Normal,Classified AS Items does not appear in Update Application module,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/21/2025 10:23 AM,"","",07/18/2025,07/23/2025,"","",3.25,3.25,0,07/18/2025 02:38 PM,"","Palao, Dante O.","","clipboard-202507181436-zdkvg.png
+clipboard-202507181729-mwk7i.png
+clipboard-202507210923-uofgy.png
+clipboard-202507210926-hnfez.png
+clipboard-202507210932-d4f4y.png
+clipboard-202507210953-katwe.png
+clipboard-202507211010-ou9sn.png",07/21/2025,07/21/2025,07/23/2025,07/23/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+62427,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Electrical Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/17/2025 05:37 PM,"","",05/07/2025,05/09/2025,"","",8.25,8.25,100,04/23/2025 09:25 AM,"","Flores, Maricel F.","","template mailing info.pdf
+clipboard-202505061437-trqrw.png
+clipboard-202505061614-drrif.png
+clipboard-202505061614-mqcle.png
+clipboard-202505071636-lltzu.png
+bandicam 2025-07-17 14-46-30-248 pobo 62428.mp4
+bandicam 2025-07-17 16-18-38-216.mp4",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+64196,Parañaque OBO Web (Online)_v1.0.0.a,Feature,59014,BE: OBO - Updating of Status based on delivery status from Keri,Deploy Request,Normal,Delivery Status did not update.,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/14/2025 05:48 PM,"","",07/04/2025,07/11/2025,"","",5.00,5.00,100,05/13/2025 11:55 AM,"","Cabrera, James Friam S.","","clipboard-202505131154-wljfo.png
+clipboard-202505131155-zgyop.png
+clipboard-202506191133-fpvby.png
+clipboard-202507011413-4yjd4.png
+clipboard-202507011414-9ugzd.png
+clipboard-202507011427-wrbya.png
+clipboard-202507011428-sbf8r.png
+clipboard-202507011656-rltby.png
+clipboard-202507011701-rcwrx.png
+clipboard-202507111110-jtoyw.png
+clipboard-202507111110-sno1c.png
+clipboard-202507111111-7vfim.png
+clipboard-202507111111-jybfm.png
+clipboard-202507111112-ud1zf.png
+clipboard-202507111112-pe18s.png
+clipboard-202507111124-99z6y.png
+clipboard-202507111125-xpewm.png
+clipboard-202507141506-naqam.png",05/15/2025,07/11/2025,05/16/2025,07/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+31399,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31363,Excavation Officer of the Day Evaluation,Deploy Request,Normal,Back-end: Excavation Officer of the Day Initial Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",07/10/2025 10:15 AM,"","",01/11/2024,10/31/2024,"",0.00,0.00,1.25,100,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202410311129-0wvla.png
+clipboard-202410311441-vzlrc.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+62431,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Sanitary/Plumbing Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/07/2025 06:24 AM,"","",05/02/2025,05/02/2025,"",0.00,4.25,5.25,100,04/23/2025 09:28 AM,"","Dela Cruz, Raquel B.","","template mailing info.pdf
+clipboard-202505021119-rcokb.png
+clipboard-202505021125-ppiir.png
+clipboard-202505021540-hzib6.png
+clipboard-202507041720-l4amv.png
+clipboard-202507041722-d9ovx.png
+clipboard-202507041727-vap7c.png
+clipboard-202507041728-090jk.png
+clipboard-202507041729-3yz4t.png
+STATUS AND SYNC working.png
+Submit to Logistics option.png.mp4
+LOGISTICS WORKING .mp4",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",NORMAL,"Saflor, Elijah Z.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62432,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Sanitary/Plumbing Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/07/2025 06:24 AM,"","",06/24/2025,07/04/2025,"",0.00,7.00,11.00,0,04/23/2025 09:28 AM,"","Dela Cruz, Raquel B.","","template mailing info.pdf
+clipboard-202506251916-xzdrx.png
+clipboard-202506251919-yt7rf.png
+clipboard-202506301108-tqch0.png
+clipboard-202507041720-fgrda.png
+clipboard-202507041722-xc0vt.png
+Delivery Status and Submit to Logistics button.png
+STATUS AND SYNC working.png
+Submit to Logistics option.png.mp4
+clipboard-202507041725-gf1qq.png
+clipboard-202507041728-5sdd8.png
+LOGISTICS WORKING .mp4
+clipboard-202507041729-kd6nw.png
+clipboard-202507041729-yeqpm.png",04/30/2025,07/04/2025,04/30/2025,07/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62433,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Electronics Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/07/2025 06:23 AM,"","",05/02/2025,05/02/2025,"",0.00,3.25,4.25,100,04/23/2025 09:30 AM,"","Dela Cruz, Raquel B.","","template mailing info.pdf
+clipboard-202505021223-jrxli.png
+clipboard-202505021529-fvjhx.png
+Submit to Logistics option showing.png
+SYNC WORKING.mp4
+clipboard-202507041759-xcoxa.png
+IP_Same as applicant .mp4
+clipboard-202507041759-6zajg.png
+clipboard-202507041801-r1kcp.png
+Submit to Logistics option showing.png
+clipboard-202507041806-4bcr4.png",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",NORMAL,"Saflor, Elijah Z.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62440,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Electronics Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/07/2025 06:23 AM,"","",06/24/2025,06/27/2025,"",0.00,4.50,8.50,0,04/23/2025 09:46 AM,"","Dela Cruz, Raquel B.","","template mailing info.pdf
+clipboard-202506241648-50cxu.png
+clipboard-202506241656-g73dc.png
+clipboard-202506261026-brhhz.png
+clipboard-202507041759-ul7yp.png
+clipboard-202507041759-8eumy.png
+clipboard-202507041801-vmyyi.png
+clipboard-202507041806-202u6.png
+IP_Same as applicant .mp4
+Submit to Logistics option showing.png
+CITIZEN_Same as applicant .mp4
+SYNC WORKING.mp4",04/30/2025,06/27/2025,04/30/2025,06/27/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62445,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Excavation Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/07/2025 06:23 AM,"","",06/23/2025,06/27/2025,"",0.00,4.50,5.50,0,04/23/2025 09:53 AM,"","Dela Cruz, Raquel B.","","template mailing info.pdf
+clipboard-202506231445-9fojn.png
+clipboard-202506240817-wthky.png
+Submit to logistics option.png
+clipboard-202507041815-bvm4c.png
+clipboard-202507041816-dwcue.png
+clipboard-202507041817-keyrx.png
+clipboard-202507041819-esxlm.png
+clipboard-202507041820-e0fpz.png",04/30/2025,06/27/2025,04/30/2025,06/27/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+69688,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62431,FE: Sanitary/Plumbing Permit ,Deploy Request,Normal,Feedback: PLUMBING AND SANITARY MAILING ,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/07/2025 06:21 AM,"","",07/03/2025,07/11/2025,"","",1.00,1.00,100,07/03/2025 06:04 PM,"","Dela Cruz, Raquel B.","","Not selecting NO by default.mp4
+BE CHARGED.png
+No SUBMIT TO LOGISTICS.png
+FE Plumbing.png
+Not selecting NO by default_CITIZEN.png
+FE Plumbing_CITIZEN.png
+NO SUBMIT TO LOGISTICS _ CIT.png
+STATUS AND SYNC working.png
+clipboard-202507041633-rplfq.png
+clipboard-202507041635-wuoiw.png",07/07/2025,07/07/2025,07/10/2025,07/10/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",EASY,"Saflor, Elijah Z.",,,,,,"Punzalan, Maurice Joyce",,Task Ticket
+69689,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62432,BE: Sanitary/Plumbing Permit ,Deploy Request,Normal,Feedback: PLUMBING AND SANITARY MAILING BE,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/07/2025 06:21 AM,"","",07/03/2025,07/11/2025,"","",4.00,4.00,0,07/03/2025 06:14 PM,"","Dela Cruz, Raquel B.","","FE Plumbing.png
+FE Plumbing_CITIZEN.png
+No SUBMIT TO LOGISTICS.png
+NO SUBMIT TO LOGISTICS _ CIT.png
+Not selecting NO by default_CITIZEN.png
+STATUS AND SYNC working.png
+Not selecting NO by default.mp4
+clipboard-202507041451-hvjod.png
+clipboard-202507041451-rsjrq.png
+clipboard-202507041451-ds7dc.png
+clipboard-202507041452-2ntvx.png
+Delivery Status and Submit to Logistics button.png
+STATUS AND SYNC working.png
+Submit to Logistics option.png.mp4
+clipboard-202507041746-edjn2.png
+clipboard-202507041746-tm3ta.png
+LOGISTICS WORKING .mp4
+clipboard-202507041753-aeuin.png",07/07/2025,07/07/2025,07/10/2025,07/10/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,"Punzalan, Maurice Joyce",100,Task Ticket
+69758,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62440,BE: Electronics Permit ,Deploy Request,Normal,Feedback: BE ELECTRONICS MAILING ,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/07/2025 06:21 AM,"","",07/04/2025,07/11/2025,"","",4.00,4.00,0,07/04/2025 12:15 PM,"","Dela Cruz, Raquel B.","","clipboard-202507041206-5xnip.png
+NO Submit to Logistics option.png
+CITIZEN_Not selecting NO by default.mp4
+IP_Not selecting NO by default.mp4
+clipboard-202507041527-xktzu.png
+IP_Same as applicant .mp4
+Submit to Logistics option showing.png
+CITIZEN_Same as applicant .mp4
+clipboard-202507041811-gp3e8.png
+SYNC WORKING.mp4
+clipboard-202507041812-agd3d.png",07/08/2025,07/08/2025,07/11/2025,07/11/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,"Punzalan, Maurice Joyce",100,Task Ticket
+69738,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,62430,BE: Mechanical Permit ,Deploy Request,Normal,Feedback: BE MECHANICAL MAILING ,"Punzalan, Maurice Joyce","Ubag, Andrew James F.",07/04/2025 05:41 PM,"","",07/04/2025,07/11/2025,"","",4.00,4.00,0,07/04/2025 10:28 AM,"","Punzalan, Maurice Joyce","","Not Selecting NO by default.mp4
+Status not updating to For Delivery.mp4
+Status stuck on BPLO Processing 2.mp4
+clipboard-202507041025-x1zde.png
+clipboard-202507041026-lhy3y.png
+CITIZEN_Not Selecting NO by default.mp4
+clipboard-202507041531-f4us7.png
+Mailing information Field_Citizen .png
+Submit to logistics showing .png
+clipboard-202507041739-ghecg.png
+SYNC WORKING.mp4
+clipboard-202507041740-40b2k.png",07/08/2025,07/08/2025,07/11/2025,07/11/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,,,,"Punzalan, Maurice Joyce",,Task Ticket
+62429,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,FE: Mechanical Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/04/2025 05:20 PM,"","",05/05/2025,05/09/2025,"",0.00,9.50,10.50,100,04/23/2025 09:26 AM,"","Flores, Maricel F.","","template mailing info.pdf
+clipboard-202505081531-y9icv.png
+clipboard-202505081531-e5myp.png
+clipboard-202505081532-4pczh.png
+clipboard-202505091334-93xsj.png
+clipboard-202507041710-g9rdw.png
+clipboard-202507041711-zefjv.png
+clipboard-202507041712-edu8w.png
+clipboard-202507041714-ab3ot.png
+SYNC WORKING.mp4
+clipboard-202507041716-c7mmi.png
+clipboard-202507041716-2ehvi.png",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+62430,Parañaque OBO Web (Online)_v1.0.0.a,Feature,58958,Logistics and Mailing [PARENT],Deploy Request,Normal,BE: Mechanical Permit ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/04/2025 05:04 PM,"","",05/05/2025,05/09/2025,"",0.00,8.50,12.50,0,04/23/2025 09:26 AM,"","Agapito, Roma S.","","template mailing info.pdf
+clipboard-202505091336-5cy1s.png
+clipboard-202507041648-mswny.png
+clipboard-202507041649-jzexh.png
+clipboard-202507041649-3jy7l.png
+SYNC WORKING.mp4
+clipboard-202507041650-iofqa.png
+clipboard-202507041652-8ivfw.png
+clipboard-202507041652-acakc.png",04/30/2025,04/30/2025,04/30/2025,04/30/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Punzalan, Maurice Joyce",100,Task Ticket
+61853,Parañaque OBO Web (Online)_v1.0.0.b,Feature,61938,Excavation Permit,Feedback,Normal,BE: Excavation Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",07/04/2025 11:14 AM,"","",04/21/2025,07/11/2025,"",0.00,8.50,11.75,100,04/16/2025 08:23 AM,"","Gatpo, Arriane Clarisse","","clipboard-202504241221-ykotb.png
+clipboard-202504280909-mrfwa.png
+clipboard-202504280910-boqdh.png
+clipboard-202504280912-hjiwz.png
+bandicam 2025-06-18 13-18-16-142.mp4
+clipboard-202507041108-vcy2m.png
+clipboard-202507041112-jsj6c.png",04/18/2025,07/11/2025,04/18/2025,07/11/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,,100,Task Ticket
+63208,Parañaque OBO Web (Online)_v1.0.0.a,Feature,63189,April 28 OBO Feedback,Deploy Request,Normal,BE Releasing and View Ongoing Application Module: Separate Application Staatus and Delivery Status,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/02/2025 05:23 PM,"","",06/03/2025,06/20/2025,"","",3.50,3.50,100,05/02/2025 08:57 AM,"","Flores, Maricel F.","","clipboard-202506051920-ec7tb.png
+clipboard-202506191110-ddgjk.png
+clipboard-202507021654-irboy.png",05/09/2025,06/20/2025,05/09/2025,06/20/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+67074,QC CSO Web (Online)_v1.0.0.a,Feedback,60051,Add representative in the dropdown list for Officer,Deploy Request,Normal,Not reflected in Tab 3 ,"Daluz, Janine C.","Ubag, Andrew James F.",07/02/2025 07:44 AM,"","",06/10/2025,06/30/2025,"","",3.00,3.00,100,06/10/2025 10:48 AM,"","Dela Cruz, Raquel B.","","clipboard-202506101047-suplq.png
+clipboard-202506101413-qyjsb.png
+clipboard-202506101415-tshmj.png
+clipboard-202506191432-ym9da.png
+clipboard-202506191432-urk9u.png
+clipboard-202506191433-142jj.png
+clipboard-202506200827-rx8md.png",06/11/2025,06/11/2025,06/30/2025,06/30/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60051,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,Add representative in the dropdown list for Officer,"Daluz, Janine C.","Ubag, Andrew James F.",07/02/2025 07:26 AM,"","",05/27/2025,06/04/2025,"",0.00,3.00,6.00,100,03/31/2025 09:48 AM,"","Agapito, Roma S.","","clipboard-202505271018-vhafm.png
+clipboard-202506021404-jjcf2.png
+clipboard-202506051413-epof5.png",04/15/2025,04/15/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+63212,Parañaque OBO Web (Online)_v1.0.0.a,Feature,63189,April 28 OBO Feedback,Deploy Request,Normal,Display a UI where user can view last Keri Delivery Status Syncing,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/01/2025 02:08 PM,"","",06/09/2025,06/20/2025,"","",3.50,3.50,100,05/02/2025 09:05 AM,"","Cabrera, James Friam S.","","clipboard-202505020905-hgvro.png
+clipboard-202506092036-npsid.png
+clipboard-202506092036-6gwo7.png
+clipboard-202506181132-cppva.png
+clipboard-202506181132-uzu8q.png
+clipboard-202507011408-7ywfo.png",05/09/2025,06/20/2025,05/09/2025,06/20/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+63207,Parañaque OBO Web (Online)_v1.0.0.a,Feature,63189,April 28 OBO Feedback,Deploy Request,Normal,FE Releasing and View Ongoing Application Module: Separate Application Status and Delivery Status,"Cabrera, James Friam S.","Ubag, Andrew James F.",07/01/2025 01:56 PM,"","",06/03/2025,06/20/2025,"","",3.50,3.50,100,05/02/2025 08:56 AM,"","Cabrera, James Friam S.","","clipboard-202506051919-7hcav.png
+clipboard-202506181143-rggr3.png
+clipboard-202507011355-ux2vk.png",05/09/2025,06/20/2025,05/09/2025,06/20/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+31424,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31390,Excavation Payment Printing and Releasing,Deploy Request,Normal,Back-end: Excavation Payment,"Matutes, Lady Diane","Ubag, Andrew James F.",07/01/2025 11:22 AM,"","",01/11/2024,11/15/2024,"",0.00,0.00,0.00,0,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202411051537-yiz5z.png
+clipboard-202411061609-9kxbt.png
+clipboard-202411061610-pnpqu.png",01/31/2024,11/15/2024,02/11/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+67184,QC CSO Web (Online)_v1.0.0.a,Feedback,60058,Acknowledgement,Deploy Request,Normal,No acknowledgement email received,"Daluz, Janine C.","Ubag, Andrew James F.",07/01/2025 08:36 AM,"","",06/16/2025,06/27/2025,"","",3.00,3.00,100,06/13/2025 08:49 AM,"","Flores, Maricel F.","","clipboard-202506201519-tdsfq.png
+clipboard-202506241619-y8plp.png
+clipboard-202506271313-sxmga.png
+clipboard-202507010822-ngcfn.png",06/16/2025,06/27/2025,06/30/2025,06/27/2025,WEB Online,"","","",Unknown,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,NORMAL,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60058,QC CSO Web (Online)_v1.0.0.a,Feature,60057,Email Notification Sending,Deploy Request,Normal,Acknowledgement,"Daluz, Janine C.","Ubag, Andrew James F.",06/27/2025 01:13 PM,"","",05/19/2025,06/04/2025,"",0.00,8.00,11.00,100,03/31/2025 10:07 AM,"","Palao, Dante O.","","CSO Email Notif.pptx
+clipboard-202505191801-rt37a.png
+clipboard-202505191801-gdpkq.png
+clipboard-202505231403-yu1jv.png
+clipboard-202505231403-mg1h6.png
+clipboard-202506202111-zkfoh.png",04/24/2025,04/24/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+35036,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29880,BUILDING PERMIT APPLICATION ,Deploy Request,Normal,Backend: Barcode Scanning Feature,"Peralta, Manell O.","Ubag, Andrew James F.",06/26/2025 10:05 AM,"","",03/22/2024,04/15/2025,"","",0.00,0.00,100,03/22/2024 05:42 PM,"","Palao, Dante O.","","clipboard-202404152118-4jpqw.png
+clipboard-202412191540-xii7e.png",04/08/2024,04/15/2025,04/30/2024,04/15/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Caranto, Oliver Knight S.",80,Task Ticket
+68067,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,Remove the code that appear in the users screen. ,"Estrella, Bono James G.","Ubag, Andrew James F.",06/23/2025 02:12 PM,"","",06/20/2025,06/27/2025,"","",3.00,3.00,0,06/20/2025 04:26 PM,"","Estrella, Bono James G.","","clipboard-202506201625-ehxdo.png
+clipboard-202506202021-2bkfx.png
+clipboard-202506231412-v4iqg.png
+clipboard-202506231412-fbgda.png",06/20/2025,06/27/2025,06/20/2025,06/27/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+60054,QC CSO Web (Online)_v1.0.0.a,Feature,59910,Feature-Change in Applicant and Admin Access,Deploy Request,Normal,Back End: Add dropdown for Item for rejection,"Daluz, Janine C.","Ubag, Andrew James F.",06/23/2025 07:47 AM,"","",05/05/2025,06/04/2025,"","",3.00,3.00,100,03/31/2025 10:01 AM,"","Palao, Dante O.","","clipboard-202505071415-309x6.png
+clipboard-202505071416-7gcxh.png
+clipboard-202506021334-vntap.png
+clipboard-202506200904-bw1sd.png",04/21/2025,04/21/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+67556,QC CSO Web (Online)_v1.0.0.a,Feedback,60049,Add tracking number for submitted application,Deploy Request,Normal,View Profile: Display tracking number in Application Number,"Daluz, Janine C.","Ubag, Andrew James F.",06/23/2025 07:45 AM,"","",06/17/2025,06/30/2025,"","",3.00,3.00,0,06/17/2025 01:44 PM,"","Palao, Dante O.","","clipboard-202506171343-gyj2h.png
+clipboard-202506192231-tpzhr.png
+clipboard-202506201327-eoh9s.png
+clipboard-202506202113-vfxt5.png",06/19/2025,06/19/2025,06/30/2025,06/30/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+67668,QC CSO Web (Online)_v1.0.0.a,Feedback,60086,Changes in Applicant Access,Deploy Request,Normal,View Profile: Display Submission Date in Application Date Field,"Daluz, Janine C.","Ubag, Andrew James F.",06/23/2025 07:45 AM,"","",06/18/2025,06/30/2025,"","",3.00,3.00,0,06/18/2025 08:37 AM,"","Palao, Dante O.","","clipboard-202506180835-cjus6.png
+clipboard-202506192230-xslrw.png
+clipboard-202506201324-yizz8.png
+clipboard-202506202115-0r1fw.png",06/18/2025,06/18/2025,06/30/2025,06/30/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Dela Cruz, Raquel B.",100,Task Ticket
+67275,QC CSO Web (Online)_v1.0.0.a,Feature,60089,Schedule  of Appointment,Deploy Request,Normal,Cancellation of appointment,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",06/16/2025,06/20/2025,"","",8.00,8.00,0,06/13/2025 04:33 PM,"","Flores, Maricel F.","","clipboard-202506181631-u13y0.png
+clipboard-202506191023-wjajy.png
+clipboard-202506200850-lazui.png
+clipboard-202506200851-uujbp.png",06/16/2025,06/16/2025,06/30/2025,06/30/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60089,QC CSO Web (Online)_v1.0.0.a,Feature,59910,Feature-Change in Applicant and Admin Access,Deploy Request,Normal,Schedule  of Appointment,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",06/04/2025,06/16/2025,"",0.00,8.00,16.00,0,03/31/2025 10:45 AM,"","Flores, Maricel F.","","clipboard-202506042001-wltnv.png
+clipboard-202506051529-wbiaq.png
+clipboard-202506190943-tzcaw.png
+clipboard-202506190944-v5w2k.png
+clipboard-202506200840-4xizk.png
+clipboard-202506200840-atzfk.png
+clipboard-202506200841-hkipm.png
+clipboard-202506200842-b6fr4.png",05/13/2025,06/16/2025,06/04/2025,06/16/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60049,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,Add tracking number for submitted application,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",04/28/2025,06/04/2025,"",0.00,3.00,6.00,0,03/31/2025 09:47 AM,"","Flores, Maricel F.","","clipboard-202504281937-wok0b.png
+clipboard-202505161446-sen1n.png
+clipboard-202506200828-qrdgc.png",04/15/2025,06/04/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+67234,QC CSO Web (Online)_v1.0.0.a,Feedback,60059,Schedule of Appointment,Deploy Request,Normal,Cancelled Appointment but still unable to Set a new one,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",06/16/2025,06/20/2025,"","",8.00,8.00,0,06/13/2025 12:03 PM,"","Flores, Maricel F.","","clipboard-202506131203-oeuhq.png
+clipboard-202506181631-3s36b.png
+clipboard-202506191026-obgum.png
+clipboard-202506191026-sdiz3.png
+clipboard-202506191026-ybnrp.png
+clipboard-202506191027-7qyjf.png
+clipboard-202506200846-fushl.png",06/16/2025,06/16/2025,06/30/2025,06/30/2025,WEB Online,"","","",Unknown,"",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60061,QC CSO Web (Online)_v1.0.0.a,Feature,60057,Email Notification Sending,Deploy Request,Normal,For Transmittal to the Office of the Chairman of the Committee  on People's Participation,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",05/20/2025,06/04/2025,"","",8.00,8.00,100,03/31/2025 10:07 AM,"","Flores, Maricel F.","","CSO Email Notif.pptx
+clipboard-202505201843-tcign.png
+clipboard-202506021522-rj2rm.png
+clipboard-202506200900-clqdt.png",04/24/2025,04/24/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60059,QC CSO Web (Online)_v1.0.0.a,Feature,60057,Email Notification Sending,Deploy Request,Normal,Schedule of Appointment,"Daluz, Janine C.","Ubag, Andrew James F.",06/20/2025 10:49 AM,"","",06/04/2025,06/16/2025,"",0.00,8.00,16.00,0,03/31/2025 10:07 AM,"","Flores, Maricel F.","","CSO Email Notif.pptx
+clipboard-202506051526-u24rh.png
+clipboard-202506191021-wb5sr.png
+clipboard-202506191021-u0n3f.png
+clipboard-202506191021-tutrq.png
+clipboard-202506191025-fln2b.png
+clipboard-202506200854-9jhaq.png",04/24/2025,06/16/2025,06/16/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60062,QC CSO Web (Online)_v1.0.0.a,Feature,60057,Email Notification Sending,Deploy Request,Normal,Approved by Quezon City Council,"Daluz, Janine C.","Ubag, Andrew James F.",06/19/2025 10:04 AM,"","",05/21/2025,06/04/2025,"","",8.00,8.00,100,03/31/2025 10:08 AM,"","Flores, Maricel F.","","CSO Email Notif.pptx
+clipboard-202505221634-c4pcj.png
+clipboard-202505221634-teamo.png
+cso111.mp4
+clipboard-202506021524-f4hje.png
+clipboard-202506181321-cl3yi.png",04/24/2025,04/24/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+67232,QC CSO Web (Online)_v1.0.0.a,Feedback,59910,Feature-Change in Applicant and Admin Access,Deploy Request,Normal,Applicant Access: Error when Viewing Profile,"Daluz, Janine C.","Ubag, Andrew James F.",06/19/2025 08:22 AM,"","",06/17/2025,06/30/2025,"","",3.00,3.00,0,06/13/2025 12:00 PM,"","Estrella, Bono James G.","","clipboard-202506131159-0f012.png
+clipboard-202506131200-iczft.png
+clipboard-202506131500-pfwat.png
+clipboard-202506161129-thaet.png
+clipboard-202506171433-jijf4.png
+clipboard-202506181636-sucj2.png
+clipboard-202506190822-a0b9m.png",06/16/2025,06/16/2025,06/30/2025,06/30/2025,WEB Online,"","","",Unknown,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+67557,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,There is a data table warning in edit profile. ,"Estrella, Bono James G.","Ubag, Andrew James F.",06/19/2025 08:17 AM,"","",06/17/2025,06/17/2025,"","",3.00,3.00,0,06/17/2025 01:49 PM,"","Estrella, Bono James G.","","data table warning. .mp4
+clipboard-202506181639-wovuz.png
+clipboard-202506190817-npsym.png",06/17/2025,06/17/2025,06/17/2025,06/17/2025,WEB Local,"","","",Unknown,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+60244,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60240,Sign Permit,Deploy Request,Normal,[01072025] PED Evaluation: Remove Plumbing/Sanitary,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/18/2025 05:23 PM,"","",04/04/2025,04/11/2025,"","",0.50,0.50,100,03/31/2025 07:06 PM,"","Flores, Maricel F.","","clipboard-202503311903-l6asz.png
+clipboard-202504031316-zajkt.png
+clipboard-202504031330-ey3ww.png
+clipboard-202504031338-7ygn3.png
+clipboard-202504071019-bok83.png
+bandicam 2025-06-18 16-20-00-210.mp4
+bandicam 2025-06-18 16-30-19-981.mp4
+bandicam 2025-06-18 16-46-46-914.mp4",04/03/2025,04/11/2025,04/03/2025,04/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60241,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60240,Sign Permit,Deploy Request,Normal,[01072025] OOTD (encoder) will tag if application will still be routed to BFP and CAO,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/18/2025 05:23 PM,"","",04/03/2025,04/11/2025,"","",0.50,0.50,100,03/31/2025 06:49 PM,"","Flores, Maricel F.","","clipboard-202503311843-op3uo.png
+clipboard-202504041459-5yttr.png
+clipboard-202504041459-m1r17.png
+clipboard-202504041459-xhvqm.png
+clipboard-202504041459-ga5dn.png
+clipboard-202504041459-o429x.png
+clipboard-202504070948-ppskw.png
+clipboard-202504070950-2cnqm.png
+clipboard-202504070955-ifl0f.png
+clipboard-202504070958-9tqxr.png
+bandicam 2025-06-18 16-20-00-210.mp4
+bandicam 2025-06-18 16-30-19-981.mp4
+bandicam 2025-06-18 16-46-46-914.mp4",04/03/2025,04/11/2025,04/03/2025,04/11/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60239,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60236,Fencing Permit,Deploy Request,Normal,"[01072025] PED Evaluation: Remove Plumbing/Sanitary, Mechanical, Electronics","Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/18/2025 05:23 PM,"","",04/02/2025,04/11/2025,"","",0.50,0.50,100,03/31/2025 06:32 PM,"","Flores, Maricel F.","","clipboard-202503311830-pprnv.png
+clipboard-202504031706-s7fhz.png
+clipboard-202504031709-jzqcj.png
+clipboard-202504071121-zwhdk.png
+bandicam 2025-06-18 16-06-21-011.mp4",04/03/2025,04/11/2025,04/03/2025,04/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60238,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60236,Fencing Permit,Deploy Request,Normal,[01072025] Documents tab: Add Fence Plan & Electrical Plan ,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/18/2025 05:23 PM,"","",04/02/2025,04/11/2025,"","",8.50,8.50,100,03/31/2025 06:25 PM,"","Flores, Maricel F.","","clipboard-202503311825-ceijd.png
+clipboard-202504031211-6jadu.png
+clipboard-202504071346-fglv8.png
+clipboard-202504071346-czqtm.png
+bandicam 2025-06-18 16-00-46-993.mp4",04/03/2025,04/11/2025,04/03/2025,04/11/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+62236,Parañaque OBO Web (Online)_v1.0.0.a,Feature,59430,Optimize getApplicationDetails function,Deploy Request,Normal,Optimize getApplicationDetails function - Admin (Approvers),"Aban, Marvin","Ubag, Andrew James F.",06/18/2025 01:59 PM,"","",05/05/2025,05/09/2025,"","",8.00,8.00,0,04/22/2025 11:39 AM,"","Dela Cruz, Raquel B.","",clipboard-202506181357-q5lgi.png,04/25/2025,04/25/2025,04/25/2025,04/25/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,NORMAL,,,,,Task Ticket
+62602,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52533,Apply to All,Deploy Request,Normal,[04242025] Account Codes Updating,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/17/2025 10:19 PM,"","",05/07/2025,05/20/2025,"",0.00,6.25,13.25,100,04/24/2025 11:02 AM,"","Agapito, Roma S.","","OBO Fees Mapping 04242025.xlsx
+clipboard-202505201456-a871m.png
+OBO Fees Mapping 04242025 - BP testing 06052025.xlsx",04/25/2025,05/20/2025,04/28/2025,05/20/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+67233,QC CSO Web (Online)_v1.0.0.a,Feature,59910,Feature-Change in Applicant and Admin Access,Deploy Request,Normal,BCRD Access: Application Date column: Display date of Submission,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 05:37 PM,"","",06/13/2025,06/30/2025,"","",3.00,3.00,100,06/13/2025 12:02 PM,"","Flores, Maricel F.","","clipboard-202506131542-lv99d.png
+clipboard-202506161055-ogil7.png
+clipboard-202506171610-bglws.png",06/16/2025,06/16/2025,06/30/2025,06/30/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60021,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,Annual Report: Required to New Organization ,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 05:37 PM,"","",05/21/2025,06/04/2025,"","",8.00,8.00,0,03/31/2025 08:56 AM,"","Flores, Maricel F.","","clipboard-202505211442-jadmt.png
+clipboard-202505231358-phfhm.png",04/02/2025,04/02/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+66269,QC CSO Web (Online)_v1.0.0.a,Feedback,65737,BE Add template for federation members list,Deploy Request,Normal,Limited validation in Member and Federation Uploader,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 03:30 PM,"","",06/02/2025,06/04/2025,"","",8.00,8.00,100,06/02/2025 02:32 PM,"","Flores, Maricel F.","","clipboard-202506021818-ktkhn.png
+clipboard-202506041540-qs9jt.png
+clipboard-202506171500-3rhdx.png",06/03/2025,06/03/2025,06/04/2025,06/04/2025,WEB Online,"","","",Incomplete / Incorrect specs,"",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60060,QC CSO Web (Online)_v1.0.0.a,Feature,60057,Email Notification Sending,Deploy Request,Normal,Rejected,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 03:30 PM,"","",04/22/2025,06/04/2025,"","",8.00,8.00,100,03/31/2025 10:07 AM,"","Flores, Maricel F.","","CSO Email Notif.pptx
+clipboard-202505211551-ph4e9.png
+clipboard-202505211551-kpha3.png
+clipboard-202506021333-jypm2.png
+clipboard-202506171507-ql0ve.png",04/24/2025,04/24/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+65737,QC CSO Web (Online)_v1.0.0.a,Feature,60053,Changes in BCRD Access,Deploy Request,Normal,BE Add template for federation members list,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 03:30 PM,"","",05/28/2025,06/04/2025,"",0.00,8.00,16.00,100,05/28/2025 10:21 AM,"","Flores, Maricel F.","","clipboard-202505301322-7w21m.png
+clipboard-202505301323-fcv0w.png
+clipboard-202506021418-7b6ql.png
+clipboard-202506021418-ewbs6.png
+clipboard-202506171349-pbd0b.png",05/30/2025,05/30/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+65736,QC CSO Web (Online)_v1.0.0.a,Feature,60053,Changes in BCRD Access,Deploy Request,Normal,FE Add template for federation members list,"Daluz, Janine C.","Ubag, Andrew James F.",06/17/2025 03:30 PM,"","",05/28/2025,06/04/2025,"","",8.00,8.00,100,05/28/2025 10:21 AM,"","Flores, Maricel F.","","clipboard-202506021418-9pxkq.png
+clipboard-202506021418-iq96u.png
+clipboard-202506171346-x4nfj.png
+clipboard-202506171348-x6bdi.png
+clipboard-202506171348-dxsyh.png",05/30/2025,05/30/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+64043,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,Application Resubmission - SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/17/2025 03:26 PM,"","",05/13/2025,06/06/2025,"",0.00,9.00,12.00,100,05/09/2025 01:39 PM,"","Flores, Maricel F.","","clipboard-202505141950-pdufo.png
+clipboard-202505141952-rxtiv.png
+clipboard-202505141954-agt4o.png
+clipboard-202505141955-p6mmu.png
+clipboard-202505142006-d4vlb.png
+clipboard-202506031115-cbf0b.png
+clipboard-202506031118-ih0gg.png
+clipboard-202506031119-a8ahh.png",05/15/2025,06/06/2025,05/22/2025,06/06/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+61826,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52534,Building,Deploy Request,Normal,[04152025] Date of Submission for Returned to Applicant (For Compliance) should be based on Date of resubmission of the Returned Application,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/17/2025 11:53 AM,"","",04/28/2025,05/09/2025,"",0.00,3.50,7.00,100,04/15/2025 04:17 PM,"","Punzalan, Maurice Joyce",Related to #71195,"Screenshot 2025-04-30 105622.png
+Screenshot 2025-04-30 091437.png
+clipboard-202505091345-hvwwo.png
+clipboard-202505091349-gwl4k.png
+clipboard-202505091350-yu5tn.png
+clipboard-202505091351-klhhp.png
+clipboard-202506171059-pbtr5.png",04/23/2025,05/09/2025,04/25/2025,05/09/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64063,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,Application Resubmission - FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/17/2025 11:53 AM,"","",05/15/2025,06/06/2025,"",0.00,4.50,8.25,100,05/09/2025 02:59 PM,"","Flores, Maricel F.","","clipboard-202505161654-gbanj.png
+clipboard-202505161705-hbqwm.png
+clipboard-202505161733-x7hcz.png
+clipboard-202505161733-rydqm.png
+clipboard-202505161735-8efpf.png
+clipboard-202505271640-mtcb2.png
+clipboard-202506031535-zxijs.png
+clipboard-202506031538-7hild.png
+clipboard-202506031539-lxis9.png
+clipboard-202506031539-tmoyq.png",05/15/2025,06/06/2025,05/22/2025,06/06/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+64065,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,BE Issuance of Notice of Compliance in Monitoring - FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/16/2025 04:36 PM,"","",05/16/2025,05/22/2025,"",0.00,4.00,7.75,100,05/09/2025 03:01 PM,"","Cabrera, James Friam S.","","clipboard-202505161643-0jnhd.png
+clipboard-202505161643-wgrjb.png
+clipboard-202505161645-zsmic.png
+clipboard-202505161651-j2kn2.png
+clipboard-202505161652-dg1se.png
+clipboard-202505191509-h6cfm.png
+clipboard-202505191523-xzgwh.png
+clipboard-202505191523-y0dxx.png
+clipboard-202505191524-3h0ma.png
+clipboard-202505191524-nrien.png
+clipboard-202506031007-25bjk.png
+clipboard-202506031008-cdc4a.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+67231,QC CSO Web (Online)_v1.0.0.a,Feedback,59910,Feature-Change in Applicant and Admin Access,Deploy Request,Normal,BCRD Access: Error when viewing specific application ,"Daluz, Janine C.","Ubag, Andrew James F.",06/16/2025 01:19 PM,"","",06/13/2025,06/30/2025,"","",3.00,3.00,0,06/13/2025 11:58 AM,"","Estrella, Bono James G.","","clipboard-202506131157-cbvur.png
+clipboard-202506131158-trbwo.png
+clipboard-202506131457-pjhk0.png
+clipboard-202506161319-ddwa9.png",06/16/2025,06/16/2025,06/30/2025,06/30/2025,WEB Online,"","","",Unknown,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+67097,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,The user can appoint multiple appointment. ,"Estrella, Bono James G.","Ubag, Andrew James F.",06/13/2025 04:01 PM,"","",06/10/2025,06/10/2025,"","",3.10,3.10,100,06/10/2025 01:24 PM,"","Estrella, Bono James G.","","clipboard-202506101906-dmfie.png
+clipboard-202506131601-ujtja.png",06/10/2025,06/10/2025,06/10/2025,06/10/2025,WEB Online,"","","",Missed Specs During Dev,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+67112,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,Application date is not sorting (descending/ascending) as expected.,"Estrella, Bono James G.","Ubag, Andrew James F.",06/13/2025 03:59 PM,"","",06/10/2025,06/10/2025,"","",3.10,3.10,0,06/10/2025 02:56 PM,"","Estrella, Bono James G.","","application date sort.mp4
+clipboard-202506101839-khl25.png
+clipboard-202506131558-unpwc.png
+clipboard-202506131558-pxxdv.png",06/10/2025,06/10/2025,06/10/2025,06/10/2025,WEB Online,"","","",Missed Specs During Dev,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+67120,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,There is a php error in the applicant access. ,"Estrella, Bono James G.","Ubag, Andrew James F.",06/13/2025 03:44 PM,"","",06/10/2025,06/10/2025,"","",3.00,3.00,100,06/10/2025 03:36 PM,"","Estrella, Bono James G.","","clipboard-202506101534-510b9.png
+clipboard-202506101727-yyqpf.png
+clipboard-202506131540-syng0.png",06/10/2025,06/10/2025,06/10/2025,06/10/2025,WEB Online,"","","",Missed Specs During Dev,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+60046,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,BE Add template for federation members list,"Daluz, Janine C.","Ubag, Andrew James F.",06/13/2025 01:20 PM,"","",05/27/2025,06/04/2025,"","",8.00,8.00,100,03/31/2025 09:45 AM,"","Dela Cruz, Raquel B.","","clipboard-202505291959-pajq8.png
+clipboard-202505291959-djnid.png
+clipboard-202506021409-ycfmt.png
+clipboard-202506131206-iadf5.png
+clipboard-202506131206-d5zv6.png",04/15/2025,04/15/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,,100,Task Ticket
+61851,Parañaque OBO Web (Online)_v1.0.0.b,Feature,61936,Fencing Permit,Deploy Request,Normal,BE: Fencing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/09/2025 12:19 PM,"","",04/21/2025,04/25/2025,"","",8.25,8.25,0,04/16/2025 08:22 AM,"","Dela Cruz, Raquel B.","","clipboard-202504241828-w4owa.png
+clipboard-202504280818-ik7jh.png
+clipboard-202504280818-d4drt.png
+clipboard-202504280820-usmm3.png
+bandicam 2025-06-09 11-49-38-616 pobo fence onprem prof.mp4
+bandicam 2025-06-09 11-54-49-615.mp4",04/18/2025,04/18/2025,04/18/2025,04/18/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+66008,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,BE Display prompt if Registration Number is already used.,"Daluz, Janine C.","Ubag, Andrew James F.",06/08/2025 08:30 AM,"","",05/30/2025,06/04/2025,"","",8.00,8.00,0,05/30/2025 09:49 AM,"","Dela Cruz, Raquel B.","","clipboard-202505301324-emsmk.png
+clipboard-202506021622-gcv50.png
+clipboard-202506052246-xccja.png",06/02/2025,06/02/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+66007,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,FE Display prompt if Registration Number is already used.,"Daluz, Janine C.","Ubag, Andrew James F.",06/08/2025 08:30 AM,"","",05/30/2025,06/04/2025,"","",3.00,3.00,100,05/30/2025 09:49 AM,"","Dela Cruz, Raquel B.","","clipboard-202505301324-qgpqy.png
+clipboard-202506021621-p5vtr.png
+clipboard-202506052245-zsnco.png",06/02/2025,06/02/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+60537,Parañaque OBO Web (Online)_v1.0.0.b,Bug,52537,Building,Deploy Request,Normal,ZAU Evaluator access - Documents tab: Missing Applicant's Remarks,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/05/2025 02:23 PM,"","",04/08/2025,05/16/2025,"","",3.25,3.25,0,04/03/2025 02:38 PM,"","Agapito, Roma S.","","bandicam 2025-03-30 16-41-14-940 - Trim.mp4
+clipboard-202504081354-9ph6b.png
+clipboard-202504110906-814j1.png
+bandicam 2025-05-13 16-19-45-147.mp4
+clipboard-202505151409-gl9tj.png
+bldg fqa onprem.mp4
+bandicam 2025-06-05 13-57-49-779.mp4",04/07/2025,05/16/2025,04/07/2025,05/16/2025,WEB Local,"","","","",Both PROD & QA Site,NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+65653,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,FE Add template for federation members list,"Daluz, Janine C.","Ubag, Andrew James F.",06/05/2025 02:23 PM,"","",05/27/2025,06/04/2025,"","",8.00,8.00,100,05/27/2025 10:42 AM,"","Palao, Dante O.","","clipboard-202506021342-fvdm2.png
+clipboard-202506051415-xosk3.png
+clipboard-202506051415-zrxk3.png",05/30/2025,05/30/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+61567,Parañaque OBO Web (Online)_v1.0.0.b,Bug,52537,Building,Deploy Request,Normal,Incomplete Documents but Tracking Number is updated and old Tracking Number is gone,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/05/2025 01:57 PM,"","",04/14/2025,04/25/2025,"","",3.25,3.25,100,04/14/2025 04:57 PM,"","Agapito, Roma S.","","bandicam 2025-04-14 16-39-24-824.mp4
+clipboard-202504151442-khlgc.png
+clipboard-202504211436-4c119.png
+bandicam 2025-06-05 13-46-25-092.mp4",04/18/2025,04/25/2025,04/18/2025,04/25/2025,WEB Local,"","","","",Both PROD & QA Site,NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+64071,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63654,Excavation - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,PED Ancillary Evaluation - EXCAVATION,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/05/2025 10:09 AM,"","",05/21/2025,05/30/2025,"","",1.00,1.00,100,05/09/2025 03:09 PM,"","Cabrera, James Friam S.","","clipboard-202505271414-janiq.png
+clipboard-202506051009-pfr3z.png",05/15/2025,05/30/2025,05/22/2025,05/30/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+66274,QC CSO Web (Online)_v1.0.0.a,Feedback,66273,Qa Feedbacks,Deploy Request,Normal,There is a PHP error in the BCRD evaluation. ,"Estrella, Bono James G.","Ubag, Andrew James F.",06/04/2025 04:25 PM,"","",06/02/2025,06/02/2025,"","",3.00,3.00,100,06/02/2025 03:15 PM,"","Estrella, Bono James G.","","clipboard-202506021513-ezqng.png
+clipboard-202506021728-ks42i.png
+clipboard-202506041358-rhvtv.png",06/02/2025,06/02/2025,06/02/2025,06/02/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+61499,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52537,Building,Deploy Request,Normal,Monitoring tags application for Return to Encoder: Route to Encoder/OOTD,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/04/2025 04:21 PM,"","",06/03/2025,06/06/2025,"",0.00,4.50,12.50,0,04/14/2025 01:17 PM,"","Agapito, Roma S.",Related to #63825,"clipboard-202504141317-zd326.png
+clipboard-202505081105-ujcix.png
+clipboard-202505081106-rdpoq.png
+clipboard-202505081107-ctk9k.png
+clipboard-202505081109-brfqv.png
+clipboard-202505081110-xngd0.png
+clipboard-202505141521-4zeao.png
+clipboard-202505141521-fl4gj.png
+61499 issue.mp4
+61559 issue.mp4
+Screen Recording 2025-06-03 110518.mp4
+bandicam 2025-06-04 07-04-48-865 return to encoder pobo.mp4
+bandicam 2025-06-04 15-15-15-435 return to encoder pobo.mp4",04/18/2025,05/30/2025,04/18/2025,05/30/2025,WEB Local,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+66423,Parañaque OBO Web (Online)_v1.0.0.b,Feature,61499,Monitoring tags application for Return to Encoder: Route to Encoder/OOTD,Deploy Request,Normal,Monitoring return to encoder: upon resubmission retain current Tracking Number & End Date,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",06/04/2025 04:17 PM,"","",06/03/2025,06/04/2025,"","",8.00,8.00,0,06/03/2025 02:54 PM,"","Agapito, Roma S.","","clipboard-202506031729-ltf2l.png
+clipboard-202506031729-4imuc.png
+clipboard-202506031729-p7dtf.png
+bandicam 2025-06-04 07-04-48-865 return to encoder pobo.mp4",06/04/2025,06/04/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,NORMAL,"Ramon Jao, Jeremaine Lindsly N.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+64061,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,Chief of Evaluation - FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/03/2025 02:30 PM,"","",05/15/2025,06/15/2025,"","",3.00,3.00,0,05/09/2025 02:47 PM,"","Cabrera, James Friam S.","","clipboard-202505161635-sf7b7.png
+clipboard-202505191555-99h9m.png
+clipboard-202505191556-qxe68.png
+clipboard-202505191557-wi023.png
+clipboard-202506021237-uwrwx.png
+clipboard-202506021237-hheyf.png
+clipboard-202506031329-7l6mr.png
+clipboard-202506031425-eh1f9.png
+clipboard-202506031426-fbsvz.png",05/15/2025,06/15/2025,05/22/2025,06/15/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64064,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,FE Issuance of Notice of Compliance in Monitoring - FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/03/2025 02:29 PM,"","",05/16/2025,05/22/2025,"",0.00,3.00,6.25,100,05/09/2025 03:00 PM,"","Cabrera, James Friam S.","","clipboard-202505161643-r3x1o.png
+clipboard-202505161644-6k5w0.png
+clipboard-202505161645-n3y0d.png
+clipboard-202505161651-y96qt.png
+clipboard-202505161653-zconq.png
+clipboard-202505191523-zz0ua.png
+clipboard-202505191523-aoysz.png
+clipboard-202505191524-qsbcl.png
+clipboard-202505191524-gn42n.png
+clipboard-202505191524-9xc6j.png
+clipboard-202506031428-zbhzl.png
+clipboard-202506031429-qsw9e.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+63869,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,BE: Add Generate NOC/Evaluation Report Document PDF in FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/03/2025 02:24 PM,"","",05/19/2025,05/23/2025,"",0.00,3.50,7.00,100,05/08/2025 10:33 AM,"","Cabrera, James Friam S.","","clipboard-202505161643-e5hoi.png
+clipboard-202505161644-8zttb.png
+clipboard-202505161646-bputs.png
+clipboard-202505161651-aeghy.png
+clipboard-202505161653-ovu82.png
+clipboard-202505201516-gds6o.png
+clipboard-202506031424-xwiin.png",05/20/2025,05/20/2025,05/23/2025,05/23/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+63874,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,BE: Add Generate NOC/Evaluation Report Document PDF in SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/03/2025 01:49 PM,"","",05/16/2025,05/23/2025,"",0.00,4.00,7.50,100,05/08/2025 10:37 AM,"","Cabrera, James Friam S.","","clipboard-202505132001-8rui0.png
+clipboard-202505132001-otblx.png
+clipboard-202505132002-czifx.png
+clipboard-202505191518-jqfqw.png
+clipboard-202505191518-fscjv.png
+clipboard-202505191520-u5v9a.png
+clipboard-202505191521-md9ih.png
+clipboard-202506031349-1eqnm.png",05/20/2025,05/20/2025,05/23/2025,05/23/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64055,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,FE Issuance of Notice of Compliance in Monitoring - SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/03/2025 10:11 AM,"","",05/13/2025,05/22/2025,"",0.00,3.00,6.25,100,05/09/2025 02:24 PM,"","Cabrera, James Friam S.","","clipboard-202505132000-jtpk9.png
+clipboard-202505191458-rtue4.png
+clipboard-202505191502-syepm.png
+clipboard-202505191502-hbhdx.png
+clipboard-202506031011-ckcrw.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+65202,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31186,SIGNBOARD PERMIT APPLICATION,Deploy Request,Normal,Sign permit error prompt in Location Details Tab,"Cabrera, James Friam S.","Ubag, Andrew James F.",06/02/2025 08:10 AM,"","",05/21/2025,05/23/2025,"","",3.00,3.00,100,05/21/2025 02:38 PM,"","Cabrera, James Friam S.","","sign permit error prompt in Location Details Tab.mp4
+clipboard-202505211520-ad1yx.png
+clipboard-202505211527-dbq6o.png",05/22/2025,05/22/2025,05/23/2025,05/23/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,,"Cabrera, James Friam S.",,"Cabrera, James Friam S.",100,Task Ticket
+61850,Parañaque OBO Web (Online)_v1.0.0.b,Feature,61935,Demolition Permit,Deploy Request,Normal,BE: Demolition Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/28/2025 04:33 PM,"","",04/21/2025,04/23/2025,"","",8.25,8.25,100,04/16/2025 08:22 AM,"","Palao, Dante O.","","clipboard-202504231426-jhgzv.png
+clipboard-202504240823-9cmfo.png
+clipboard-202504240824-wxrce.png
+bandicam 2025-05-28 16-10-43-411.mp4",04/18/2025,04/18/2025,04/18/2025,04/18/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+64066,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63650,Demolition - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,PED Ancillary Evaluation - DEMOLITION,"Cabrera, James Friam S.","Ubag, Andrew James F.",05/28/2025 04:10 PM,"","",05/20/2025,05/30/2025,"","",1.00,1.00,100,05/09/2025 03:03 PM,"","Flores, Maricel F.","","clipboard-202505271428-4kyge.png
+clipboard-202505281607-ldhfm.png",05/15/2025,05/30/2025,05/22/2025,05/30/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+60235,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60233,Demolition Permit,Deploy Request,Normal,[01072025] PED Evaluation: Remove all except LAG and Inspection,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/28/2025 10:10 AM,"","",04/02/2025,04/11/2025,"","",0.75,0.75,100,03/31/2025 06:16 PM,"","Palao, Dante O.","","clipboard-202503311813-fjhqr.png
+clipboard-202504031654-ionxh.png
+clipboard-202504031656-3fjqm.png
+clipboard-202504070914-id1p8.png
+bandicam 2025-05-28 09-18-02-145.mp4",04/03/2025,04/11/2025,04/03/2025,04/11/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60037,QC CSO Web (Online)_v1.0.0.a,Feature,60086,Changes in Applicant Access,Deploy Request,Normal,Back End: Add field for Registering Agency,"Daluz, Janine C.","Ubag, Andrew James F.",05/27/2025 02:48 PM,"","",05/05/2025,06/04/2025,"","",8.00,8.00,20,03/31/2025 09:27 AM,"","Palao, Dante O.","","clipboard-202505051756-2depy.png
+clipboard-202505051900-i4ofx.png
+clipboard-202505071329-iqwys.png
+clipboard-202505271444-ihtyq.png",04/10/2025,04/10/2025,06/04/2025,06/04/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Daluz, Janine C.",100,Task Ticket
+64060,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63652,Fencing - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,PED Ancillary Evaluation - FENCING,"Cabrera, James Friam S.","Ubag, Andrew James F.",05/22/2025 01:37 PM,"","",05/15/2025,05/22/2025,"","",4.00,4.00,0,05/09/2025 02:39 PM,"","Palao, Dante O.","","clipboard-202505161630-s4ulp.png
+clipboard-202505161632-h7o73.png
+clipboard-202505191548-uk9mo.png
+clipboard-202505221337-dfljm.png
+clipboard-202505221337-pyeb1.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64056,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,BE Issuance of Notice of Compliance in Monitoring - SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",05/21/2025 05:42 PM,"","",05/14/2025,05/22/2025,"","",8.00,8.00,0,05/09/2025 02:26 PM,"","Flores, Maricel F.","","NOC in Monitoring v2.drawio.pdf
+clipboard-202505132000-n87ls.png
+clipboard-202505141353-9gjxg.png
+clipboard-202505141354-0z45w.png
+clipboard-202505191518-jrm3c.png
+clipboard-202505191518-utlgs.png
+clipboard-202505191520-5jyco.png
+clipboard-202505191521-oqtgs.png
+clipboard-202505211615-yewau.png
+clipboard-202505211617-lybjp.png
+clipboard-202505211619-gxyaf.png
+clipboard-202505211620-tasho.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64042,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,Chief of Evaluation - SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",05/21/2025 05:42 PM,"","",05/13/2025,05/22/2025,"","",4.00,4.00,0,05/09/2025 01:38 PM,"","Flores, Maricel F.","","clipboard-202505131016-syhji.png
+clipboard-202505191408-hekdp.png
+clipboard-202505211603-3xm7g.png
+clipboard-202505211604-nncq0.png
+clipboard-202505211605-dp9bn.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+64041,Parañaque OBO Web (Online)_v1.0.0.b,Feature,63653,Sign - Process Flow Modification for Notice of Compliance,Deploy Request,Normal,PED Ancillary Evaluation -  SIGN,"Cabrera, James Friam S.","Ubag, Andrew James F.",05/21/2025 05:42 PM,"","",05/09/2025,05/22/2025,"","",9.00,9.00,0,05/09/2025 01:37 PM,"","Flores, Maricel F.","","clipboard-202505092023-quwto.png
+clipboard-202505092024-k3j4n.png
+clipboard-202505191406-bkhjz.png
+clipboard-202505191407-cnigs.png
+clipboard-202505211541-skmat.png
+clipboard-202505211542-2kjry.png",05/15/2025,05/15/2025,05/22/2025,05/22/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
+58540,Parañaque OBO Web (Online)_v1.0.0.b,Feature,58713,[03052025] Architectural: Add Additional Number of Storeys field,Deploy Request,Normal,[03052025] BE: Architectural: Add Additional Number of Storeys field,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/19/2025 05:42 PM,"","",03/28/2025,03/31/2025,"","",3.50,3.50,100,03/18/2025 06:56 PM,"","Flores, Maricel F.","","clipboard-202503181855-zdbwf.png
+clipboard-202503281328-elhyq.png
+clipboard-202503311522-v6xqx.png
+bandicam 2025-05-19 17-39-24-986.mp4",03/21/2025,03/31/2025,03/21/2025,03/31/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+58541,Parañaque OBO Web (Online)_v1.0.0.b,Feature,58715,"[03052025] Per Discipline Evaluation: add Assessment Table, relabel Remarks ",Deploy Request,Normal,"[03052025] BE: Per Discipline Evaluation: add Assessment Table, relabel Remarks ","Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/19/2025 05:41 PM,"","",03/20/2025,03/28/2025,"","",9.00,9.00,100,03/18/2025 07:16 PM,"","Flores, Maricel F.","","clipboard-202503201316-ff7bh.png
+clipboard-202503241403-acmiy.png
+clipboard-202503241641-qkkrd.png
+clipboard-202505191723-wdhfq.png
+pobo occu post dep.mp4",03/21/2025,03/21/2025,03/21/2025,03/21/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+58536,Parañaque OBO Web (Online)_v1.0.0.b,Feature,57475,Certificate Of Occupancy,Deploy Request,Normal,[03052025] Display all cited applicants in the Certificate,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/19/2025 05:11 PM,"","",03/19/2025,03/21/2025,"","",2.50,2.50,100,03/18/2025 05:56 PM,"","Palao, Dante O.","","clipboard-202503181755-vlwok.png
+clipboard-202503181756-ieu5q.png
+Screenshot 2025-03-19 141905.png
+Screenshot 2025-03-19 141852.png
+clipboard-202503211604-ii3do.png
+Screenshot 2025-03-21 160404.png
+pobo occu post dep.mp4",03/21/2025,03/21/2025,03/21/2025,03/21/2025,WEB Online,"","","","","",EASY,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+58542,Parañaque OBO Web (Online)_v1.0.0.b,Feature,57475,Certificate Of Occupancy,Deploy Request,Normal,[03052025] Final Assessor: Autopopulate Assessment Table,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/19/2025 05:10 PM,"","",03/25/2025,03/28/2025,"","",8.50,8.50,0,03/18/2025 07:19 PM,"","Palao, Dante O.","","clipboard-202503241643-xmn65.png
+clipboard-202503260859-xyido.png
+pobo occu post dep.mp4",03/21/2025,03/21/2025,03/21/2025,03/21/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+58994,Parañaque OBO Web (Online)_v1.0.0.b,Feature,57475,Certificate Of Occupancy,Deploy Request,Normal,[03052025] BE: In Monitoring access: Display Assessment per Discipline,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/19/2025 05:09 PM,"","",03/24/2025,03/29/2025,"","",8.25,8.25,100,03/21/2025 12:55 PM,"","Palao, Dante O.","","clipboard-202503211255-nwmaa.png
+clipboard-202503241342-rflcf.png
+clipboard-202503241633-phmxt.png
+pobo occu post dep.mp4",03/21/2025,03/21/2025,03/21/2025,03/21/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60536,Parañaque OBO Web (Online)_v1.0.0.b,Bug,52537,Building,Deploy Request,Normal,ZAU Evaluator access - Professional tab: Missing PRC & PTR Attachments,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/13/2025 04:55 PM,"","",04/08/2025,04/11/2025,"","",2.00,2.00,100,04/03/2025 02:35 PM,"","Dela Cruz, Raquel B.","","bandicam 2025-03-30 16-41-14-940 - Trim.mp4
+clipboard-202504081334-qcmma.png
+clipboard-202504111343-ak8uu.png
+bandicam 2025-05-13 16-19-45-147.mp4",04/07/2025,04/07/2025,04/07/2025,04/07/2025,WEB Local,"","","","",Both PROD & QA Site,EASY,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60632,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52537,Building,Deploy Request,Normal,Online Application: Incomplete Documents then Resubmit - should not create new application,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/13/2025 03:58 PM,"","",04/11/2025,04/25/2025,"","",6.00,6.00,100,04/04/2025 12:30 PM,"","Dela Cruz, Raquel B.","","bandicam 2025-03-30 15-13-12-876 - Trim44-1229.mp4
+Screen Recording 2025-04-11 123427.zip
+clipboard-202504141323-bjekv.png
+clipboard-202504141324-blc4u.png
+clipboard-202504141325-2uhdf.png
+clipboard-202504151247-w5caa.png
+clipboard-202504151247-ifxi7.png
+clipboard-202504211359-rc3pm.png
+clipboard-202504211401-jcnik.png
+clipboard-202504211402-vynzk.png
+clipboard-202505131557-f2l9c.png
+bandicam 2025-05-13 15-54-59-397.mp4",04/07/2025,04/25/2025,04/07/2025,04/25/2025,WEB Local,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60631,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52537,Building,Deploy Request,Normal,Online Application: Incomplete Documents should not issue Tracking Number,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/13/2025 03:58 PM,"","",04/11/2025,04/11/2025,"","",1.75,1.75,100,04/04/2025 12:18 PM,"","Dela Cruz, Raquel B.","","bandicam 2025-03-30 15-03-04-763 - Trim 44-1144.mp4
+Recording 2025-04-10 142754.mp4
+clipboard-202504101434-oxtyw.png
+clipboard-202504110839-o3eww.png
+clipboard-202504110839-mtdui.png
+bandicam 2025-05-13 15-25-21-776.mp4",04/07/2025,04/07/2025,04/07/2025,04/07/2025,WEB Local,"","","","","",EASY,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+60535,Parañaque OBO Web (Online)_v1.0.0.b,Bug,52537,Building,Deploy Request,Normal,"Initial Evaluation Professional tab: Same as above & Not required checkboxes not working, Address fields are blank","Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",05/13/2025 03:58 PM,"","",04/08/2025,04/18/2025,"","",2.50,2.50,100,04/03/2025 02:32 PM,"","Dela Cruz, Raquel B.","","bandicam 2025-04-03 13-49-18-122.mp4
+clipboard-202504081201-b9zex.png
+clipboard-202504081202-lxrb3.png
+clipboard-202504081202-tzanr.png
+clipboard-202504141547-rcwqj.png
+clipboard-202504141549-spyi9.png
+clipboard-202504141550-bt5sw.png
+bandicam 2025-05-13 13-58-46-088.mp4
+bandicam 2025-05-13 15-43-33-524.mp4",04/07/2025,04/18/2025,04/07/2025,04/18/2025,WEB Local,"","","","",Both PROD & QA Site,EASY,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+58539,Parañaque OBO Web (Online)_v1.0.0.b,Feature,58714,[03052025] BFP Evaluation: Add Unpaid Tagging,Deploy Request,Normal,[03052025] BE: BFP Evaluation: Add Unpaid Tagging,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",04/30/2025 09:17 AM,"","",03/27/2025,03/28/2025,"","",3.50,3.50,100,03/18/2025 06:33 PM,"","Palao, Dante O.","","clipboard-202503181825-yk6cg.png
+clipboard-202503271304-eh0eu.png
+clipboard-202503271305-bq0dc.png
+clipboard-202503271423-qmywz.png
+clipboard-202503271424-kkczb.png
+bandicam 2025-04-30 08-45-19-221.mp4",03/21/2025,03/21/2025,03/21/2025,03/21/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+62540,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,37147,Back-end: Electrical Assessment Module,Deploy Request,Normal,Duplicate fees,"Estrella, Bono James G.","Ubag, Andrew James F.",04/29/2025 02:04 PM,"","",04/23/2025,05/02/2025,"","",3.50,3.50,0,04/23/2025 04:12 PM,"","Estrella, Bono James G.","","clipboard-202504231551-c7wga.png
+clipboard-202504251745-lzkq6.png
+clipboard-202504291404-yy1bt.png",04/23/2025,05/02/2025,04/23/2025,05/02/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,Overtime,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+62625,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,38278,ELECTRONICS PERMIT APPLICATION,Deploy Request,Normal,"Electronics permit loop: Chief of Electronics to PED final, then back to Chief of Electronics.","Estrella, Bono James G.","Ubag, Andrew James F.",04/29/2025 01:59 PM,"","",04/24/2025,04/25/2025,"","",3.50,3.50,0,04/24/2025 01:34 PM,"","Estrella, Bono James G.","","clipboard-202504251757-xvr6w.png
+clipboard-202504291359-1c3hq.png",04/24/2025,04/24/2025,04/24/2025,04/24/2025,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+60915,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52533,Apply to All,Deploy Request,Normal,[04022025] FE Releasing Module Modifications,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/29/2025 08:48 AM,"","",04/22/2025,05/02/2025,"","",3.50,3.50,100,04/08/2025 10:06 AM,"","Palao, Dante O.","","clipboard-202504081004-avgm1.png
+clipboard-202504251556-623g8.png
+clipboard-202504281124-uzqcw.png
+clipboard-202504290808-xiven.png",04/18/2025,05/02/2025,04/25/2025,05/02/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+60916,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52533,Apply to All,Deploy Request,Normal,[04022025] BE Releasing Module Modifcations,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/29/2025 08:47 AM,"","",04/22/2025,05/02/2025,"","",3.50,3.50,100,04/08/2025 10:07 AM,"","Palao, Dante O.","","clipboard-202504081007-scfsa.png
+clipboard-202504251556-jl43r.png
+clipboard-202504281125-cexwv.png
+clipboard-202504281126-oq6by.png
+clipboard-202504281126-53gep.png
+clipboard-202504281126-bkiik.png
+clipboard-202504290809-sg9ny.png",04/18/2025,05/02/2025,04/25/2025,05/02/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+54049,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,54047,"February 3, 2025: Initial Evaluation Tab; CPDO Simultaneous Evaluation; Automated Routing",Deploy Request,Normal,52776 [20250115] BE: CPDO Simultaneous Evaluation,"Ubag, Andrew James F.","Ubag, Andrew James F.",04/23/2025 06:37 AM,"","",02/03/2025,02/04/2025,"","",0.50,0.50,100,02/03/2025 07:54 PM,"","Palao, Dante O.","","",02/04/2025,02/04/2025,02/04/2025,02/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.","Reyes, Kervin Terence V.",,,"Gatpo, Arriane Clarisse",,"Caranto, Oliver Knight S.",100,Task Ticket
+54050,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,54047,"February 3, 2025: Initial Evaluation Tab; CPDO Simultaneous Evaluation; Automated Routing",Deploy Request,Normal,52767 [20250115] BE: On Prem Application Form: Add Initial Evaluation Tab,"Ubag, Andrew James F.","Ubag, Andrew James F.",04/23/2025 06:36 AM,"","",02/03/2025,02/04/2025,"","",1.00,1.00,100,02/03/2025 08:06 PM,"","Palao, Dante O.","","",02/04/2025,02/04/2025,02/04/2025,02/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Caranto, Oliver Knight S.",100,Task Ticket
+54051,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,54047,"February 3, 2025: Initial Evaluation Tab; CPDO Simultaneous Evaluation; Automated Routing",Deploy Request,Normal,52766 [20250115] FE: On Prem Application Form: Add Initial Evaluation Tab,"Ubag, Andrew James F.","Ubag, Andrew James F.",04/23/2025 06:36 AM,"","",02/04/2025,02/04/2025,"","",1.00,1.00,100,02/03/2025 08:20 PM,"","Palao, Dante O.","","",02/04/2025,02/04/2025,02/03/2025,02/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.","Saflor, Elijah Z.",,,"Gatpo, Arriane Clarisse",,"Caranto, Oliver Knight S.",100,Task Ticket
+54052,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,54047,"February 3, 2025: Initial Evaluation Tab; CPDO Simultaneous Evaluation; Automated Routing",Deploy Request,Normal,52786 [20250115] BE: OBO Monitoring: Automated Routing,"Ubag, Andrew James F.","Ubag, Andrew James F.",04/23/2025 06:36 AM,"","",02/03/2025,02/04/2025,"","",1.00,1.00,100,02/03/2025 08:23 PM,"","Palao, Dante O.","","",02/04/2025,02/04/2025,02/03/2025,02/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Caranto, Oliver Knight S.",100,Task Ticket
+54053,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,54047,"February 3, 2025: Initial Evaluation Tab; CPDO Simultaneous Evaluation; Automated Routing",Deploy Request,Normal,52785 [20250115] FE: OBO Monitoring: Automated Routing,"Ubag, Andrew James F.","Ubag, Andrew James F.",04/23/2025 06:35 AM,"","",02/03/2025,02/04/2025,"","",1.00,1.00,100,02/03/2025 08:23 PM,"","Palao, Dante O.","","",02/04/2025,02/04/2025,02/03/2025,02/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Caranto, Oliver Knight S.",100,Task Ticket
+61764,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,61761,DEPLOYMENT FOR 04-15-2025 5:01 PM,Deploy Request,Normal,Deployment c/o Sir Andrew,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/21/2025 08:52 AM,"","",04/15/2025,04/25/2025,"","",3.00,3.00,100,04/15/2025 02:33 PM,"","Palao, Dante O.","",clipboard-202504210851-qrjkk.png,04/16/2025,04/25/2025,04/21/2025,04/25/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Overtime,"","Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",,Task Ticket
+60524,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52534,Building,Deploy Request,Normal,[0402025] BFP Evaluation Enhancement,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/15/2025 02:58 PM,"","",04/11/2025,04/15/2025,"","",3.25,3.25,100,04/03/2025 01:43 PM,"","Palao, Dante O.","","Recording 2025-04-10 165056.mp4
+Screenshot 2025-04-11 090936.png
+Screen Recording 2025-04-11 090909.mp4",04/11/2025,04/11/2025,04/15/2025,04/15/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+34126,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29876,BP: BACK-END,Deploy Request,Normal,BP:BE: OBO Final PED Assessment,"Peralta, Manell O.","Ubag, Andrew James F.",04/15/2025 02:14 PM,"","",03/05/2024,08/09/2024,"",0.00,0.00,4.00,100,03/05/2024 05:26 PM,"","Jose, Norlyn M.","","clipboard-202405171436-wxuo5.png
+clipboard-202408091249-wmr8w.png",03/15/2024,03/15/2024,05/30/2024,08/09/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Bulalacao, Julia Margarette A.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+60786,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,60785,DEPLOYMENT FOR 04-07-2025,Deploy Request,Normal,Deployment c/o Sir Andrew,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/15/2025 09:56 AM,"","",04/07/2025,04/18/2025,"","",3.00,3.00,100,04/07/2025 10:11 AM,"","Cabrera, James Friam S.","",clipboard-202504071941-6l9tx.png,04/08/2025,04/18/2025,04/11/2025,04/18/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,"",,,,,Grouping Ticket
+60269,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60253,[01072025] Generation of permit no. is after payment validation,New,Normal,Excavation Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",04/07/2025 04:56 PM,"","",04/10/2025,04/11/2025,"","",0.00,0.00,0,03/31/2025 09:11 PM,"","Aban, Marvin","","",04/03/2025,04/03/2025,04/03/2025,04/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+60268,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60253,[01072025] Generation of permit no. is after payment validation,New,Normal,Sign Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",04/07/2025 04:56 PM,"","",04/10/2025,04/11/2025,"","",0.00,0.00,0,03/31/2025 09:11 PM,"","Aban, Marvin","","",04/03/2025,04/03/2025,04/03/2025,04/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+60267,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60253,[01072025] Generation of permit no. is after payment validation,New,Normal,Fencing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",04/07/2025 04:56 PM,"","",04/10/2025,04/11/2025,"","",0.00,0.00,0,03/31/2025 09:11 PM,"","Aban, Marvin","","",04/03/2025,04/03/2025,04/03/2025,04/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+60266,Parañaque OBO Web (Online)_v1.0.0.b,Feature,60253,[01072025] Generation of permit no. is after payment validation,New,Normal,Demolition Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",04/07/2025 04:55 PM,"","",04/08/2025,04/11/2025,"","",0.00,0.00,0,03/31/2025 09:11 PM,"","Aban, Marvin","","",04/03/2025,04/03/2025,04/03/2025,04/03/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,,,,,Task Ticket
+60365,Parañaque OBO Web (Online)_v1.0.0.b,Deployment,60327,DEPLOYMENT FOR 04-02-2025,New,Normal,Deployment c/o Sir Andrew,"Cabrera, James Friam S.","Ubag, Andrew James F.",04/02/2025 01:43 PM,"","",04/02/2025,04/04/2025,"","",0.00,0.00,0,04/02/2025 01:37 PM,"","Boiser, Rizza S.","","",04/04/2025,04/04/2025,04/04/2025,04/04/2025,WEB Online,"","","","","",,,,,"",,,,,Grouping Ticket
+42424,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31153,OP-BE: Inspection Monitoring,Deploy Request,Normal,BE: Display All Inspection Fields,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:33 PM,"","",08/12/2024,11/29/2024,"","",0.00,0.00,100,08/12/2024 04:42 PM,"","Estrella, Bono James G.","","clipboard-202408121640-pist4.png
+clipboard-202408121641-5wgum.png
+clipboard-202408131847-bachk.png
+clipboard-202411201511-7urgy.png",08/16/2024,11/15/2024,08/23/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+41548,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31153,OP-BE: Inspection Monitoring,Deploy Request,Normal,Back to Main Page not working.,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:28 PM,"","",08/01/2024,10/31/2024,"","",0.00,0.00,100,08/01/2024 03:55 PM,"","Estrella, Bono James G.","","clipboard-202408011555-2wcxl.png
+clipboard-202408011946-nhbai.png
+clipboard-202410311407-msq4z.png",08/02/2024,10/31/2024,08/02/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+38973,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38547,OBO FEEDBACK,New,Normal,Occupancy Permit Application: Add uploading of documents sharable to all (back-end),"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:28 PM,"","",06/25/2024,12/13/2024,"","",0.00,0.00,0,06/25/2024 06:46 PM,"","Estrella, Bono James G.","","",07/15/2024,12/13/2024,07/30/2024,12/13/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,,,,,,Grouping Ticket
+41000,Parañaque OBO Web (Online)_v1.0.0.a,Feature,40997,Printing of Annual Inspection Certificate,Deploy Request,Normal,Back-End Printing of Annual Inspection Certificate,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:27 PM,"","",07/26/2024,10/31/2024,"","",0.00,0.00,100,07/26/2024 09:49 AM,"","Estrella, Bono James G.","","",08/09/2024,10/31/2024,08/30/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+40902,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38547,OBO FEEDBACK,Deploy Request,Normal,ALL: PED Inspector Access Changes,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:26 PM,"","",07/24/2024,12/20/2024,"","",0.00,0.00,100,07/24/2024 12:04 PM,"","Estrella, Bono James G.","","clipboard-202408131854-gox50.png
+clipboard-202408131856-q3bsr.png
+clipboard-202408131856-wa6p5.png
+clipboard-202412121515-wtmjj.png
+clipboard-202412121516-orayn.png
+clipboard-202412201144-ybshc.png
+clipboard-202412201144-cycqu.png",08/23/2024,12/15/2024,08/30/2024,12/15/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+40784,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38547,OBO FEEDBACK,Deploy Request,Normal,ALL: OBO Chief can Reject,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:26 PM,"","",07/23/2024,09/27/2024,"","",0.00,0.00,100,07/23/2024 04:06 PM,"","Estrella, Bono James G.","","clipboard-202408051338-nkx6c.png
+clipboard-202408051646-kahr0.png
+clipboard-202408051826-kv9jl.png
+clipboard-202408061801-zkxqr.png
+clipboard-202408061803-6xezw.png
+clipboard-202408061804-snqwv.png
+clipboard-202408061806-hwaip.png
+clipboard-202408061809-wez1a.png
+clipboard-202408061905-qbf9z.png
+clipboard-202408061926-vazdv.png
+clipboard-202408071548-hkggt.png
+clipboard-202408071834-ol8na.png
+clipboard-202409131022-fhejn.png
+clipboard-202409131023-fftr6.png
+clipboard-202409131024-7vdcx.png
+clipboard-202409131026-tenom.png
+clipboard-202409131026-mdcoe.png
+clipboard-202409131027-bhjww.png
+clipboard-202409131028-7hxwd.png
+clipboard-202409131028-p3zwt.png
+clipboard-202409131029-fu4sr.png
+clipboard-202409131029-wmrw8.png
+clipboard-202409231438-k31uj.png",07/31/2024,09/27/2024,08/09/2024,09/27/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Estrella, Bono James G.",80,Task Ticket
+39404,Parañaque OBO Web (Online)_v1.0.0.a,Feature,39373,Releasing of Annual Inspection Certificate,Deploy Request,Normal,Back-End Releasing of Annual Inspection Certificate,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:23 PM,"","",07/02/2024,12/20/2024,"","",0.00,0.00,100,07/02/2024 11:46 AM,"","Estrella, Bono James G.","","clipboard-202412121637-uiblw.png
+clipboard-202412181330-it44x.png
+clipboard-202412181331-5ujuh.png",07/22/2024,12/13/2024,07/31/2024,12/13/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+39402,Parañaque OBO Web (Online)_v1.0.0.a,Feature,39372,Compliance Evaluation,Deploy Request,Normal,Back-End Compliance Evaluation,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:23 PM,"","",07/02/2024,12/31/2024,"","",0.00,0.00,90,07/02/2024 11:46 AM,"","Estrella, Bono James G.","","clipboard-202412201619-wpd9w.png
+clipboard-202501031109-2tlkr.png
+clipboard-202501031110-r5pwd.png",07/22/2024,12/31/2024,07/31/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+39400,Parañaque OBO Web (Online)_v1.0.0.a,Feature,39371,Annual Inspection Certificate,Deploy Request,Normal,Back-End Annual Inspection Certificate,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:23 PM,"","",07/02/2024,12/15/2024,"",0.00,0.00,0.00,100,07/02/2024 11:45 AM,"","Estrella, Bono James G.","","clipboard-202412091432-r37ce.png
+clipboard-202412101423-n6sl2.png",07/22/2024,12/15/2024,07/31/2024,12/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+38620,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38547,OBO FEEDBACK,Deploy Request,Normal,CPDO Evaluation Back-end,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:20 PM,"","",06/14/2024,11/15/2024,"","",0.00,0.00,100,06/14/2024 12:40 PM,"","Estrella, Bono James G.","","CPDO1.png
+CPDO2.png
+clipboard-202411131507-71prf.png",06/28/2024,11/15/2024,07/15/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Aban, Marvin","Ubag, Andrew James F.",,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+38296,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38294,Chief of Electronics Approval,Deploy Request,Normal,Back-end: Chief of of Electronics Approval,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:18 PM,"","",06/05/2024,09/16/2024,"",0.00,0.00,2.50,100,06/05/2024 11:39 AM,"","Estrella, Bono James G.","","clipboard-202407121636-iz0we.png
+clipboard-202409061454-sinzz.png
+clipboard-202409111103-czkct.png",06/17/2024,09/16/2024,06/30/2024,09/16/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Estrella, Bono James G.",100,Task Ticket
+38290,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38288,Inspection,Deploy Request,Normal,Back-end: Create Inspection Report,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:18 PM,"","",06/05/2024,12/15/2024,"",0.00,0.00,3.00,100,06/05/2024 11:33 AM,"","Estrella, Bono James G.","","clipboard-202410081021-liofp.png
+clipboard-202410081021-cajih.png
+clipboard-202412051512-rwrct.png
+clipboard-202412171535-kg0ap.png",06/17/2024,12/15/2024,06/30/2024,12/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar","Estrella, Bono James G.","Limcuando, Biehn Carlos B.",100,Task Ticket
+38287,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38285,Electronics Officer,Deploy Request,Normal,Back-end - Electronics Officer Initial Evaluation,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:10 PM,"","",06/05/2024,10/31/2024,"",0.00,0.00,0.00,100,06/05/2024 11:29 AM,"","Boiser, Rizza S.","","clipboard-202407121446-jv0qa.png
+clipboard-202410311454-e5ppm.png",06/17/2024,10/31/2024,06/30/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+37921,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31390,Excavation Payment Printing and Releasing,Deploy Request,Normal,Back-end: Excavation Printing,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:08 PM,"","",05/28/2024,10/31/2024,"","",0.00,0.00,100,05/28/2024 11:13 AM,"","Boiser, Rizza S.","","",05/29/2024,10/31/2024,06/30/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+37873,Parañaque OBO Web (Online)_v1.0.0.a,Feature,37871,Excavation Final PED Assessment,Deploy Request,Normal,Back-end: Excavation Final PED Assessment,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 05:07 PM,"","",05/27/2024,11/08/2024,"",0.00,0.00,0.00,100,05/27/2024 03:19 PM,"","Boiser, Rizza S.","","clipboard-202406131037-rz06m.png
+clipboard-202411041641-lzthq.png
+clipboard-202411041641-dpk9x.png
+clipboard-202411041642-xjjoc.png
+clipboard-202411051500-zvqqw.png
+clipboard-202411051500-uddre.png
+clipboard-202411051500-sdjze.png",05/29/2024,11/08/2024,06/30/2024,11/08/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+37741,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31189,EXCAVATION PERMIT APPLICATION,Deploy Request,Normal,Back-end: Excavation OBO Monitoring,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:07 PM,"","",05/22/2024,11/08/2024,"","",0.00,0.00,100,05/22/2024 03:03 PM,"","Boiser, Rizza S.","","clipboard-202411041431-bhape.png
+clipboard-202411051411-rj2p6.png",05/27/2024,11/08/2024,06/30/2024,11/08/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+37249,Parañaque OBO Web (Online)_v1.0.0.a,Feature,37247,Mechanical Final PED Assessment,Deploy Request,Normal,Back-end: Mechanical Assessment Module,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",05/09/2024,11/30/2024,"",0.00,0.00,0.00,100,05/09/2024 04:28 PM,"","Boiser, Rizza S.","","clipboard-202411271419-gkgfn.png
+clipboard-202411271420-yzru5.png
+clipboard-202411281038-rcyqo.png",06/15/2024,11/30/2024,05/30/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+36402,Parañaque OBO Web (Online)_v1.0.0.a,Feature,37247,Mechanical Final PED Assessment,Deploy Request,Normal,Back-end: Generate and Print Order of Payment,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/23/2024,11/30/2024,"","",0.00,0.00,100,04/23/2024 08:50 AM,"","Boiser, Rizza S.","","clipboard-202411271423-qc9ve.png
+clipboard-202411271424-ewdgl.png
+clipboard-202411281036-t2ans.png",05/30/2024,11/30/2024,06/30/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+37252,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36388,Mechanical Payment Printing and Releasing,Deploy Request,Normal,Back-end: Mechanical Permit Printing,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",05/09/2024,10/15/2024,"",0.00,0.00,0.00,100,05/09/2024 04:32 PM,"","Boiser, Rizza S.","","clipboard-202410021531-qznoi.png
+clipboard-202410041031-0gltc.png",06/15/2024,10/15/2024,05/30/2024,10/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.","Diapen, Daniel T.",,,"Estrella, Bono James G.","Castillo, QA Intern-Izar","Limcuando, Biehn Carlos B.",90,Task Ticket
+36410,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36388,Mechanical Payment Printing and Releasing,Deploy Request,Normal,Back-end: Releasing,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/23/2024,10/04/2024,"",0.00,0.00,0.00,100,04/23/2024 09:00 AM,"","Boiser, Rizza S.","","clipboard-202409301612-wesw7.png
+clipboard-202410010903-j5x5i.png
+clipboard-202410010903-u39ef.png",05/30/2024,09/30/2024,06/30/2024,09/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+36408,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36388,Mechanical Payment Printing and Releasing,Deploy Request,Normal,Back-end: Applicant Payment,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/23/2024,10/15/2024,"","",0.00,0.00,0,04/23/2024 08:54 AM,"","Boiser, Rizza S.","","clipboard-202410021551-wd7dl.png
+clipboard-202410031022-sifoy.png",05/30/2024,10/15/2024,06/30/2024,10/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+36406,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36387,OBO Chief Final Approval,Deploy Request,Normal,Back-end: OBO Chief Final Approval,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/23/2024,11/15/2024,"","",0.00,0.00,100,04/23/2024 08:53 AM,"","Boiser, Rizza S.","",clipboard-202411111618-2vxrz.png,05/30/2024,11/15/2024,06/30/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Castillo, QA Intern-Izar","Estrella, Bono James G.","Limcuando, Biehn Carlos B.",100,Task Ticket
+36404,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36386,Division Chief of Mechanical ,Deploy Request,Normal,Back-end: Division Chief Final Approval ,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/23/2024,11/30/2024,"",0.00,0.00,0.00,100,04/23/2024 08:51 AM,"","Boiser, Rizza S.","",clipboard-202411291200-uamug.png,05/30/2024,11/30/2024,06/30/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Castillo, QA Intern-Izar","Estrella, Bono James G.","Limcuando, Biehn Carlos B.",100,Task Ticket
+36845,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31161,OP-FE: Create Inspection Report,Deploy Request,Normal,Occupancy Permit - Generate Inspection Report,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:06 PM,"","",04/30/2024,09/16/2024,"",0.00,0.00,0.00,100,04/30/2024 02:53 PM,"","Boiser, Rizza S.","","Occupancy-GeneratePDF-InspectionReport2.jpg
+Occupancy-GeneratePDF-InspectionReport1.jpg
+clipboard-202406112120-lbimt.png
+clipboard-202406112123-q0m3v.png
+clipboard-202407261506-hymhz.png
+clipboard-202409061503-xtbbu.png
+inspection_report.pdf",05/08/2024,09/16/2024,06/30/2024,09/16/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+36400,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36385,Chief of Mechanical Approval,Deploy Request,Normal,Back-end: Chief of Mechanical Approval,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:05 PM,"","",04/23/2024,11/30/2024,"",0.00,0.00,2.00,100,04/23/2024 08:49 AM,"","Boiser, Rizza S.","","clipboard-202411271411-vyf7e.png
+clipboard-202411281041-fkyhm.png
+clipboard-202411281042-nxmgk.png",05/30/2024,11/30/2024,06/30/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Castillo, QA Intern-Izar","Estrella, Bono James G.","Limcuando, Biehn Carlos B.",100,Task Ticket
+36394,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36383,Mechanical Officer,Deploy Request,Normal,Back-end - Mechanical Officer Initial Evaluation,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 05:04 PM,"","",04/23/2024,11/15/2024,"","",0.00,0.00,100,04/23/2024 08:31 AM,"","Boiser, Rizza S.","",clipboard-202411071434-e9gjr.png,05/30/2024,11/15/2024,06/30/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Castillo, QA Intern-Izar","Estrella, Bono James G.","Limcuando, Biehn Carlos B.",100,Task Ticket
+31499,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31188,OP-BE: Final Approval,Deploy Request,Normal,OP-BE: OBO Chief,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:49 PM,"","",01/12/2024,11/15/2024,"",0.00,0.00,0.00,100,01/12/2024 08:18 AM,"","Boiser, Rizza S.","","clipboard-202411121006-1f9vq.png
+clipboard-202411131423-m8qfe.png",01/31/2024,11/15/2024,02/12/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+35048,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31159,OP-BE: Inspection,Deploy Request,Normal,OP-BE: Inspector - Schedule Inspection,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 04:49 PM,"","",03/25/2024,11/15/2024,"",0.00,0.00,0.00,100,03/25/2024 08:59 AM,"","Boiser, Rizza S.","","clipboard-202404192208-vefkc.png
+clipboard-202411111555-0qale.png
+clipboard-202411131351-g0whl.png",04/15/2024,11/15/2024,04/30/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31425,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31390,Excavation Payment Printing and Releasing,Deploy Request,Normal,Back-end: Excavation Releasing,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:48 PM,"","",01/11/2024,11/15/2024,"","",0.00,0.00,100,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202411051543-ddtzg.png
+clipboard-202411061615-aottp.png
+clipboard-202411061615-owlqr.png",01/31/2024,11/15/2024,02/11/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31422,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31388,Excavation OBO Chief Final Approval,Deploy Request,Normal,Back-end: Excavation OBO Chief Final Approval,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:48 PM,"","",01/11/2024,11/15/2024,"","",0.00,0.00,100,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202411051402-9prsv.png
+clipboard-202411051453-52omi.png
+clipboard-202411051453-1mhs8.png",01/31/2024,11/15/2024,02/11/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31420,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31386,Excavation Chief of Evaluation,Deploy Request,Normal,Back-end: Excavation Chief of Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:48 PM,"","",01/11/2024,11/15/2024,"",0.00,0.00,0.00,100,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202411051325-4ytif.png
+clipboard-202411051647-dxgmr.png",01/31/2024,11/15/2024,02/11/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31418,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31384,Excavation Inspection Division,Deploy Request,Normal,Back-end: Excavation Inspector Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:48 PM,"","",01/11/2024,11/08/2024,"",0.00,0.00,3.00,100,01/11/2024 06:44 PM,"","Boiser, Rizza S.","","clipboard-202411041104-o1v2u.png
+clipboard-202411051349-gt7tj.png",01/31/2024,11/08/2024,02/11/2024,11/08/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31162,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31159,OP-BE: Inspection,Deploy Request,Normal,OP-BE: Create Inspection Report,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:44 PM,"","",01/09/2024,11/22/2024,"",0.00,0.00,0.00,100,01/10/2024 03:05 AM,"","Boiser, Rizza S.","","clipboard-202411111634-cmnx4.png
+clipboard-202411191032-0wjqa.png
+clipboard-202411191032-rg6hn.png",01/30/2024,11/15/2024,02/09/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31157,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31156,OP-BE: Evaluation and Inspection,Deploy Request,Normal,OP-BE: BFP Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:44 PM,"","",01/09/2024,11/15/2024,"",0.00,0.00,0.00,100,01/10/2024 03:00 AM,"","Boiser, Rizza S.","","clipboard-202411111435-vbolj.png
+clipboard-202411121652-yffkh.png
+clipboard-202411121652-qkjmu.png",06/15/2024,11/15/2024,02/09/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31135,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31124,BP-BE: Approval,Deploy Request,Normal,BP-BE: OBO Chief,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:44 PM,"","",01/09/2024,06/30/2024,"",0.00,0.00,0.00,100,01/09/2024 02:30 PM,"","Boiser, Rizza S.","","clipboard-202405031627-73rdo.png
+Feature #31135.mp4",01/30/2024,03/22/2024,02/09/2024,06/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Bulalacao, Julia Margarette A.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31133,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31124,BP-BE: Approval,Deploy Request,Normal,BP-BE: Chief of Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:44 PM,"","",01/09/2024,07/08/2024,"",0.00,0.00,0.00,100,01/09/2024 02:28 PM,"","Boiser, Rizza S.","","clipboard-202406281212-mfqvd.png
+clipboard-202407031112-d2ofg.png",01/30/2024,06/21/2024,02/09/2024,06/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Bulalacao, Julia Margarette A.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31383,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Electronics,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,10/31/2024,"","",0.00,0.00,30,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311608-3wqb3.png
+clipboard-202410311623-qnfjo.png
+clipboard-202410311623-kqkfh.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31382,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Mechanical,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,11/08/2024,"","",0.00,0.00,30,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311600-ryarp.png
+clipboard-202411041649-9ogmn.png
+clipboard-202411041650-fa92x.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31381,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Electrical,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,11/08/2024,"","",0.00,0.00,30,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311547-945gi.png
+clipboard-202411041639-3gxo3.png
+clipboard-202411041639-w74xa.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31380,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Plumbing/Sanitary,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,10/31/2024,"",0.00,0.00,0.00,100,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311503-12qfa.png
+clipboard-202410311601-8bgnq.png
+clipboard-202410311602-jmbvj.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31379,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Structural,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,10/31/2024,"",0.00,0.00,0.00,100,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311454-dplbc.png
+clipboard-202410311554-7shzq.png
+clipboard-202410311554-wxljt.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,,100,Task Ticket
+31378,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Architectural,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,10/31/2024,"",0.00,0.00,0.00,100,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311444-vchiw.png
+clipboard-202410311543-comql.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,,100,Task Ticket
+31377,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31367,Excavation PED Evaluation and Assessment,Deploy Request,Normal,Back-end: Excavation Line and Grade,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 04:00 PM,"","",01/11/2024,10/31/2024,"",0.00,0.00,0.00,100,01/11/2024 06:12 PM,"","Jose, Norlyn M.","","clipboard-202410311433-f7ugl.png
+clipboard-202410311518-l2zuz.png",01/31/2024,10/31/2024,02/11/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+52755,Parañaque OBO Web (Online)_v1.0.0.b,Feature,52753,[20250115] Application Form: Government ID – add Others with input field in selection,Deploy Request,Normal,[20250115] BE: Application Form: Government ID – add Others with input field in selection,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:53 PM,"","",01/27/2025,01/28/2025,"",0.00,6.00,6.00,100,01/20/2025 02:06 PM,"","Estrella, Bono James G.","","clipboard-202501271527-fltfd.png
+clipboard-202501281507-adbme.png
+govt id.mp4",01/28/2025,01/28/2025,02/01/2025,02/01/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+35062,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Releasing,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",03/25/2024,10/04/2024,"","",0.00,0.00,100,03/25/2024 09:17 AM,"","Jose, Norlyn M.","","clipboard-202409301458-ctbh0.png
+clipboard-202410010857-v6rs3.png",04/22/2024,09/30/2024,04/30/2024,09/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+35058,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Printing,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",03/25/2024,10/31/2024,"","",0.00,0.00,100,03/25/2024 09:15 AM,"","Jose, Norlyn M.","",clipboard-202408061038-2fgkp.png,04/22/2024,10/31/2024,04/30/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+35056,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Payment,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",03/25/2024,11/15/2024,"",0.00,0.00,0.00,100,03/25/2024 09:11 AM,"","Jose, Norlyn M.","","clipboard-202410021545-3ausq.png
+clipboard-202410091028-tjag4.png
+clipboard-202411121011-s9fbl.png
+clipboard-202411131426-uonhj.png",04/22/2024,11/15/2024,04/30/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.","Gatpo, Arriane Clarisse","Limcuando, Biehn Carlos B.",100,Task Ticket
+35054,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Chief of Inspection Final Review,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",03/25/2024,11/15/2024,"",0.00,0.00,0.00,100,03/25/2024 09:07 AM,"","Jose, Norlyn M.","","clipboard-202411121003-rtopt.png
+clipboard-202411131419-qg3im.png",04/19/2024,11/15/2024,04/30/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31498,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Chief Electrical Evaluation,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",01/10/2024,11/15/2024,"",0.00,0.00,0.00,100,01/12/2024 12:19 AM,"","Jose, Norlyn M.","","clipboard-202411120927-6bmqm.png
+clipboard-202411131429-qovk8.png",01/31/2024,11/15/2024,02/10/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31166,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Assessment of Fees,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",01/09/2024,11/15/2024,"",0.00,0.00,4.00,100,01/10/2024 03:19 AM,"","Jose, Norlyn M.","","clipboard-202411120934-9ptbn.png
+clipboard-202411120934-8szdo.png
+clipboard-202411120934-tqbi8.png
+clipboard-202411131435-z49ha.png
+clipboard-202411131435-8mwqf.png
+clipboard-202411131435-chb1j.png
+clipboard-202411131435-eqjpq.png",01/30/2024,11/15/2024,02/09/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Estrella, Bono James G.",100,Task Ticket
+31153,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29886,OP: BACK-END,Deploy Request,Normal,OP-BE: Inspection Monitoring,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:50 PM,"","",01/09/2024,11/22/2024,"",0.00,0.00,4.00,100,01/09/2024 05:31 PM,"","Jose, Norlyn M.","","clipboard-202411120923-aajnx.png
+clipboard-202411191235-ejena.png
+clipboard-202411191235-lytvq.png
+clipboard-202411191235-cmr0q.png
+clipboard-202411191236-p1ogs.png",01/30/2024,11/15/2024,02/09/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+34122,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29876,BP: BACK-END,Deploy Request,Normal,BP:BE: OBO Monitoring Final Checking,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:47 PM,"","",03/05/2024,07/08/2024,"",0.00,0.00,0.00,100,03/05/2024 05:18 PM,"","Jose, Norlyn M.","","clipboard-202406271639-dmuba.png
+clipboard-202407031204-p7zqx.png",03/15/2024,06/21/2024,05/30/2024,06/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Bulalacao, Julia Margarette A.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31142,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29876,BP: BACK-END,Deploy Request,Normal,BP-BE: Releasing,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:47 PM,"","",01/09/2024,10/04/2024,"",0.00,0.00,0.00,100,01/09/2024 02:46 PM,"","Jose, Norlyn M.","","clipboard-202409301455-ca7xv.png
+clipboard-202410010900-jcwsn.png
+clipboard-202410010900-ocnld.png",01/30/2024,09/30/2024,02/09/2024,09/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31137,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29876,BP: BACK-END,Deploy Request,Normal,BP-BE: Payment CTO,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:47 PM,"","",01/09/2024,11/30/2024,"",0.00,0.00,0.00,100,01/09/2024 02:34 PM,"","Jose, Norlyn M.","","clipboard-202411261454-ugzfy.png
+clipboard-202411261512-3xozu.png
+clipboard-202411261512-mdcis.png",01/30/2024,11/30/2024,02/09/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+38292,Parañaque OBO Web (Online)_v1.0.0.a,Feature,38288,Inspection,New,Normal,Back-end: Generate and Print Inspection Evaluation report,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 03:44 PM,"","",06/05/2024,12/13/2024,"","",0.00,0.00,0,06/05/2024 11:33 AM,"","Estrella, Bono James G.","","",06/17/2024,12/13/2024,06/30/2024,12/13/2024,WEB Online,"","","","","",,,,,,,,,,Task Ticket
+36398,Parañaque OBO Web (Online)_v1.0.0.a,Feature,36384,Inspection,New,Normal,Back-end: Generate and Print Inspection Evaluation report,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:40 PM,"","",04/23/2024,12/13/2024,"","",0.00,0.00,0,04/23/2024 08:33 AM,"","Estrella, Bono James G.","","",05/30/2024,12/13/2024,06/30/2024,12/13/2024,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+35037,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29880,BUILDING PERMIT APPLICATION ,Deploy Request,Normal,Include Assessment in PED Access,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:39 PM,"","",03/22/2024,11/30/2024,"","",0.00,0.00,100,03/22/2024 05:49 PM,"","Jose, Norlyn M.","","clipboard-202411281354-aqsgt.png
+clipboard-202411291146-cafh3.png",04/08/2024,11/30/2024,04/30/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+35035,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29880,BUILDING PERMIT APPLICATION ,Deploy Request,Normal,Generate Bar Code,"Peralta, Manell O.","Ubag, Andrew James F.",03/26/2025 03:39 PM,"","",03/22/2024,10/31/2024,"","",0.00,0.00,100,03/22/2024 05:37 PM,"","Jose, Norlyn M.","","clipboard-202404152153-1m1ic.png
+clipboard-202404152154-5gao6.png
+clipboard-202410211458-zsyzm.png
+clipboard-202410231545-yhpiv.png",04/08/2024,10/31/2024,04/30/2024,10/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31140,Parañaque OBO Web (Online)_v1.0.0.a,Feature,29876,BP: BACK-END,Deploy Request,Normal,BP-BE: Printing,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:31 PM,"","",01/09/2024,10/04/2024,"",0.00,0.00,0.00,100,01/09/2024 02:36 PM,"","Jose, Norlyn M.","","Building-Permit.pdf
+Sanitary-Plumbing_Back.pdf
+Sanitary-Plumbing_Front.pdf
+Electronics_Back.pdf
+Electronics_Front.pdf
+Electrical_Front.pdf
+Electrical_Back.pdf
+Mechanical_Back.pdf
+Mechanical_Front.pdf
+clipboard-202410011102-you7d.png
+clipboard-202410031026-q54xe.png",01/30/2024,09/30/2024,02/09/2024,09/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+31110,Parañaque OBO Web (Online)_v1.0.0.a,Feature,31113,BP-BE: Evaluation and Assessment,Deploy Request,Normal,BP-BE: Processing and Evaluation Division,"Matutes, Lady Diane","Ubag, Andrew James F.",03/26/2025 03:30 PM,"","",01/09/2024,11/30/2024,"",0.00,0.00,0.00,100,01/09/2024 10:15 AM,"","Jose, Norlyn M.","","clipboard-202411281329-gvaig.png
+clipboard-202411281333-oout0.png",01/30/2024,11/30/2024,02/09/2024,11/30/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+51172,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Housing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:53 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51171,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Permit to Operate PTO,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:52 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51170,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Plumbing/Sanitary Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:52 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51169,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Electronics Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:52 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51168,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Professional Registration,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:51 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51167,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Mechanical Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:51 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51166,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Electrical Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:51 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51165,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Excavation and Ground Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:50 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51164,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Fencing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:50 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51163,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Sign Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:03 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:50 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51162,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51063,Apply to All: Application Master List,New,Normal,Demolition Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 03:02 PM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,12/18/2024 04:50 PM,"","Jose, Norlyn M.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+43580,Parañaque OBO Web (Online)_v1.0.0.a,Feature,43574,OBO Feedback September 5 Feedback,Deploy Request,Normal,"Change ""PTO Permit"" to ""Permit to Operate""","Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 02:57 PM,"","",09/09/2024,09/25/2024,"","",0.00,0.00,100,09/09/2024 09:56 AM,"","Jose, Norlyn M.","","clipboard-202409090956-pjfd8.png
+clipboard-202409230927-2yf22.png
+clipboard-202409230954-bliay.png",09/20/2024,09/25/2024,09/20/2024,09/25/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44430,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Annual Inspection,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,12/20/2024,"","",0.00,0.00,80,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410041948-toibp.png
+clipboard-202410041949-gey11.png
+clipboard-202410041949-csmp5.png
+clipboard-202410041949-hwlwz.png
+clipboard-202410041949-yk0w1.png
+clipboard-202410221621-ygtx2.png
+clipboard-202410221621-o4cnu.png
+clipboard-202410221622-odwlt.png
+clipboard-202410241642-9fstv.png
+clipboard-202411181349-aip35.png
+clipboard-202411281612-u4tr6.png
+clipboard-202501031124-cymyi.png
+clipboard-202501031124-rdjie.png
+clipboard-202501031124-vy8gx.png
+clipboard-202501031125-h0wfy.png",09/27/2024,11/29/2024,09/27/2024,11/29/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44428,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Electronics Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/09/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011612-xkg9d.png
+clipboard-202410011613-xrwmo.png
+clipboard-202410011613-ujdcg.png
+clipboard-202410011614-2lgph.png
+clipboard-202410071619-phsph.png
+clipboard-202410071619-4nlxu.png
+clipboard-202410081019-czuqo.png
+clipboard-202410081019-wclu5.png
+clipboard-202410081019-gahw6.png
+clipboard-202410081019-8ct3b.png",09/27/2024,10/09/2024,09/27/2024,10/09/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",90,Task Ticket
+44426,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Mechanical Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/09/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011743-avzvp.png
+clipboard-202410011743-evojz.png
+clipboard-202410011743-w6n6u.png
+clipboard-202410011744-hm4qv.png
+clipboard-202410091457-upnvu.png
+clipboard-202410091459-l5ody.png
+clipboard-202410091459-zlvpv.png
+clipboard-202410101013-edlzd.png
+clipboard-202410101013-ymkrg.png
+clipboard-202410101013-j2umh.png",09/27/2024,10/09/2024,09/27/2024,10/09/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44425,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Electrical Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/09/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011356-0gxjp.png
+clipboard-202410011357-rsfo3.png
+clipboard-202410011357-wopwc.png
+clipboard-202410071607-tx8fx.png
+clipboard-202410071608-keyew.png
+clipboard-202410071608-z1rpf.png
+clipboard-202410071608-099vj.png
+clipboard-202410081016-o3bql.png
+clipboard-202410081016-hp9hs.png
+clipboard-202410081016-p6cgk.png
+clipboard-202410081016-llgfo.png",09/27/2024,10/09/2024,09/27/2024,10/09/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",90,Task Ticket
+44424,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Housing Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,11/29/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410141942-8grle.png
+clipboard-202410141942-gpddq.png
+clipboard-202410211610-mmsml.png
+clipboard-202410211614-381ex.png
+clipboard-202410220918-uiqdn.png
+clipboard-202410220919-soabt.png
+clipboard-202411121514-ege9j.png
+clipboard-202411121514-ehu9f.png
+clipboard-202411281149-8ub5j.png
+clipboard-202411281149-ks9wm.png
+clipboard-202411281149-uv060.png",09/27/2024,11/14/2024,09/27/2024,11/14/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.","Diapen, Daniel T.",,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44422,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Permit to Operate,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,12/20/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410182016-gwklr.png
+clipboard-202410182016-ud1jz.png
+clipboard-202410182016-1zlzy.png
+clipboard-202410182016-xenk7.png
+clipboard-202410182017-zs4lq.png
+clipboard-202410251643-ml0y5.png
+clipboard-202410251644-xeabm.png
+clipboard-202410251644-ifyjh.png
+clipboard-202411281326-chcra.png
+clipboard-202411291843-kqzm0.png
+clipboard-202412041619-fty25.png
+clipboard-202412041619-puifc.png",09/27/2024,12/13/2024,09/27/2024,12/13/2024,WEB Online,"","","","","",HARD,"Diapen, Daniel T.","Ubag, Andrew James F.",,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44421,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Plumbing/Sanitary Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/15/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011651-ovxt5.png
+clipboard-202410011652-lfdzk.png
+clipboard-202410011652-yxjxc.png
+clipboard-202410101548-21kwm.png
+clipboard-202410101548-kdbdn.png
+clipboard-202410101548-hw7fv.png
+clipboard-202410161237-j9mhf.png
+clipboard-202410161237-oidxf.png",09/27/2024,10/15/2024,09/27/2024,10/15/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44420,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Excavation & Ground Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/09/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202409272051-tffib.png
+clipboard-202409272051-mqauh.png
+clipboard-202409272051-wz8kr.png
+clipboard-202409272051-i9szv.png
+clipboard-202410091615-ueor4.png
+clipboard-202410091616-9aay5.png
+clipboard-202410091616-cj7vr.png
+clipboard-202410101014-0twcz.png
+clipboard-202410101014-yqaof.png
+clipboard-202410101014-offe0.png",09/27/2024,10/09/2024,09/27/2024,10/09/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44419,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Fencing Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,11/27/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410101622-umfnu.png
+clipboard-202410101622-v2slg.png
+clipboard-202410101622-xpqij.png
+clipboard-202410220901-qp7hg.png
+clipboard-202410220902-k9qiv.png
+clipboard-202410220902-tcvtg.png",09/27/2024,10/11/2024,09/27/2024,11/27/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44418,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Sign Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/25/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011140-ko2k9.png
+clipboard-202410011140-dqcap.png
+clipboard-202410011140-bsphu.png
+clipboard-202410011140-gv6sm.png
+clipboard-202410011151-v1onl.png
+clipboard-202410011152-wsxoh.png
+clipboard-202410011152-kdrls.png
+clipboard-202410011152-frngo.png
+clipboard-202410171442-wulsu.png
+clipboard-202410171443-nyf0y.png
+clipboard-202410171443-3gaqm.png
+clipboard-202410220857-oj6yv.png
+clipboard-202410220858-h4mur.png
+clipboard-202410220858-53eof.png",09/27/2024,10/18/2024,09/27/2024,10/18/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44417,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Demolition Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/16/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202409272102-gqd4b.png
+clipboard-202409272102-uwmad.png
+clipboard-202409272102-mxlkc.png
+clipboard-202409272102-rrvkg.png
+clipboard-202410091551-mtk9y.png
+clipboard-202410091551-1gnhr.png
+clipboard-202410091551-kkgu1.png
+clipboard-202410171304-rjby2.png
+clipboard-202410171304-bwm9r.png
+clipboard-202410171304-t83u8.png",09/27/2024,10/09/2024,09/27/2024,10/09/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44416,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Occupancy Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/25/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202410011203-utzds.png
+clipboard-202410011203-o0dtc.png
+clipboard-202410011203-wqj7b.png
+clipboard-202410011203-yapms.png
+clipboard-202410171446-vaqo5.png
+clipboard-202410171446-4auo1.png
+clipboard-202410171446-mfxpv.png
+clipboard-202410220855-9sfop.png
+clipboard-202410220855-ewbnf.png
+clipboard-202410220855-mijjd.png",09/27/2024,10/18/2024,09/27/2024,10/18/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44415,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44414,ALL: Move Order of Payment and Permit Generation to Assessment Submission,Deploy Request,Normal,Building Permit,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,10/15/2024,"","",0.00,0.00,100,09/17/2024 04:27 PM,"","Estrella, Bono James G.","","clipboard-202409272034-nkzin.png
+clipboard-202409272035-vzyok.png
+clipboard-202409272035-nlbjj.png
+clipboard-202409272035-el84p.png
+clipboard-202410101524-9tkub.png
+clipboard-202410101524-g10xc.png
+clipboard-202410101524-28y3p.png
+clipboard-202410140800-cbuzf.png
+clipboard-202410140800-gwoyx.png
+clipboard-202410140800-tan4w.png",09/27/2024,10/15/2024,09/27/2024,10/15/2024,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+44436,Parañaque OBO Web (Online)_v1.0.0.a,Feature,44434,Final Assessment,Deploy Request,Normal,BE: Final Assessment,"Limcuando, Biehn Carlos B.","Ubag, Andrew James F.",03/26/2025 10:41 AM,"","",09/17/2024,11/15/2024,"",0.00,0.00,3.50,100,09/17/2024 04:53 PM,"","Estrella, Bono James G.","","clipboard-202411061607-hzwp8.png
+clipboard-202411061607-3go0j.png
+clipboard-202411061607-wgjal.png
+clipboard-202411111505-d4zzk.png
+clipboard-202411111506-ov4jt.png",09/20/2024,11/15/2024,09/20/2024,11/15/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Limcuando, Biehn Carlos B.",100,Task Ticket
+51052,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51460,Certificate of Occupancy Copy,Deploy Request,Normal,FE: Certificate of Occupancy Copy,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",02/03/2025,02/21/2025,"","",3.00,3.00,100,12/17/2024 05:59 PM,"","Estrella, Bono James G.","","clipboard-202502201425-eq0on.png
+bandicam 2025-03-04 19-00-43-243.mp4",01/09/2025,02/21/2025,01/30/2025,02/21/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+51045,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51446,Application Form,Deploy Request,Normal,FE: Application Form,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",02/13/2025,02/21/2025,"","",3.00,3.00,100,12/17/2024 05:03 PM,"","Estrella, Bono James G.","","clipboard-202501061709-u1yg6.png
+clipboard-202501061709-dzk20.png
+clipboard-202501071643-rfato.png
+clipboard-202501071647-cwi3z.png
+clipboard-202501071650-zx11a.png
+clipboard-202502131424-rtkj3.png
+clipboard-202502181657-sligw.png
+51045.mp4",01/09/2025,02/21/2025,01/30/2025,02/21/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50614,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Housing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/10/2024 08:03 AM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+Screenshot 2024-12-19 175032.png
+Screenshot 2024-12-19 175230.png
+Screenshot 2024-12-19 175256.png
+clipboard-202412271521-fnhi5.png
+OR housing.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50613,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Permit to Operate PTO,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/10/2024 08:03 AM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191755-4kaxo.png
+clipboard-202412191755-hhebr.png
+clipboard-202412191755-q2iwx.png
+clipboard-202412261406-osc6r.png
+OR PTO.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50611,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Certification of Records,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/10/2024 08:02 AM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191756-pnzw3.png
+clipboard-202412191756-hagfq.png
+clipboard-202412191756-nsewg.png
+clipboard-202412261356-vg8dr.png
+OR cert of records.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50553,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Plumbing/Sanitary Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:37 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:22 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191755-9lhw3.png
+clipboard-202412191755-fuaz6.png
+clipboard-202412191755-3jvkl.png
+clipboard-202412261344-tk7wm.png
+OR sanitary.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50552,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Electronics Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:22 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191752-ojsod.png
+clipboard-202412191752-wdoql.png
+clipboard-202412191752-ibzhx.png
+clipboard-202412261321-qgpta.png
+OR electronics.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50551,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Mechanical Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:22 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191756-wcb2o.png
+clipboard-202412191756-uf15c.png
+clipboard-202412191756-lqt9r.png
+clipboard-202412231604-ssoso.png
+OR mechanical.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50548,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Electrical Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:19 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191756-khgcl.png
+clipboard-202412191756-tbby2.png
+clipboard-202412191756-chfho.png
+clipboard-202412271626-trtrx.png
+OR electrical.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50545,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Excavation and Ground Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:10 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191756-6z3ib.png
+clipboard-202412191756-1xct0.png
+clipboard-202412191756-xlno8.png
+clipboard-202412231618-aw0kf.png
+OR excavation.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50544,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Fencing Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:09 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191756-5ncfs.png
+clipboard-202412191756-yftey.png
+clipboard-202412191756-ehcm5.png
+clipboard-202412231637-nkgqx.png
+OR fencing.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50543,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Sign Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:09 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191757-7fl3p.png
+clipboard-202412191757-lof4z.png
+clipboard-202412191757-nllaf.png
+clipboard-202412261311-u8sxr.png
+OR sign.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50542,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Demolition Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:08 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191757-1ggwh.png
+clipboard-202412191757-rwpld.png
+clipboard-202412191757-net1d.png
+clipboard-202412231609-vuzm3.png
+OR demolition.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50541,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Occupancy Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:07 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191729-qpc4i.png
+clipboard-202412231558-ri2tk.png
+OR occupancy.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+50540,Parañaque OBO Web (Online)_v1.0.0.a,Feature,50539,Upload Scanned OR Copy,Deploy Request,Normal,Building Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/09/2024,12/31/2024,"","",0.00,0.00,100,12/09/2024 01:05 PM,"","Estrella, Bono James G.","","clipboard-202412091304-yncnl.png
+clipboard-202412191755-0dsjx.png
+clipboard-202412191755-ezsqv.png
+clipboard-202412191755-jlzom.png
+clipboard-202412271513-smr7v.png
+OR bldg.avi",12/18/2024,12/31/2024,12/18/2024,12/31/2024,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+51051,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51458,Final Assessment,Deploy Request,Normal,FE: Final Assessment,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:36 AM,"","",12/17/2024,03/06/2025,"","",4.25,4.25,100,12/17/2024 05:59 PM,"","Estrella, Bono James G.","","clipboard-202501301606-erio3.png
+clipboard-202502191556-heb4o.png
+bandicam 2025-03-04 18-47-55-700.mp4
+clipboard-202503061420-yfapx.png
+clipboard-202503061640-e0myd.png
+clipboard-202503061644-l4mct.png
+clipboard-202503061645-hb7ay.png",01/09/2025,03/06/2025,01/30/2025,03/06/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.","Gatpo, Arriane Clarisse","Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+51047,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51450,Fire Clearance Endorsement Form,Deploy Request,Normal,FE: Fire Clearance Endorsement Form,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:35 AM,"","",12/17/2024,03/14/2025,"","",1.00,1.00,100,12/17/2024 05:50 PM,"","Estrella, Bono James G.","","clipboard-202412171753-sjukh.png
+clipboard-202501081703-zjw5d.png
+clipboard-202501081707-bunqy.png
+clipboard-202501081708-akzdq.png
+clipboard-202501081709-duh9z.png
+clipboard-202501081711-qmlv4.png
+clipboard-202501081711-zslof.png
+clipboard-202501091232-zukri.png
+clipboard-202501091234-2njbj.png
+clipboard-202501131438-g1rel.png
+51047 20250225.mp4
+clipboard-202502251556-zhbmu.png
+clipboard-202502271851-bgbtc.png
+clipboard-202503031100-6wh4u.png
+clipboard-202503041759-dhj8t.png",01/09/2025,03/14/2025,01/30/2025,03/14/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,NORMAL,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+43857,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,38295,Front-end: Chief of Electronics Approval,Deploy Request,Normal,Chief of Electronics: 'Applicant Name' Sorting Incorrectly,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/11/2024,09/13/2024,"","",0.00,0.00,100,09/11/2024 11:37 AM,"","Estrella, Bono James G.","","clipboard-202409111137-ptc5x.png
+clipboard-202409131911-rbayo.png
+clipboard-202409171046-opehz.png",09/13/2024,09/13/2024,09/13/2024,09/13/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43841,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,38289,Front-end: Create Inspection Report,Deploy Request,Normal,Electronics Inspector: 'Applicant Name' and 'Date of Application' Sorting Incorrectly,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/11/2024,09/13/2024,"","",0.00,0.00,100,09/11/2024 10:38 AM,"","Estrella, Bono James G.","","clipboard-202409111037-5ts7r.png
+clipboard-202409111057-bd9zt.png
+clipboard-202409131848-8ks7y.png
+clipboard-202409131849-llasp.png
+clipboard-202409171028-7hktw.png
+clipboard-202409171029-qcxqo.png",09/13/2024,09/13/2024,09/13/2024,09/13/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+42831,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,38286,Front-end - Electronics Officer Initial Evaluation,Deploy Request,Normal,Evaluator's Remarks: Not Accepting Valid (numeric and special characters) Input,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/21/2024,09/11/2024,"","",0.00,0.00,100,08/21/2024 02:13 PM,"","Estrella, Bono James G.","","clipboard-202408211412-yhguf.png
+clipboard-202409111820-inuli.png
+clipboard-202409130915-c3ov3.png",08/26/2024,09/11/2024,08/26/2024,09/11/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43724,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,37248,Front-end: Mechanical Assessment Module,Deploy Request,Normal,Final Assessor: 'Applicant Name' Sorting Incorrectly (ALL PERMIT),"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/10/2024,09/12/2024,"","",0.00,0.00,100,09/10/2024 11:18 AM,"","Estrella, Bono James G.","","clipboard-202409101118-lq8ef.png
+clipboard-202409121455-mn4mb.png
+clipboard-202409130917-epgry.png",09/12/2024,09/12/2024,09/12/2024,09/12/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43819,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,36403,Front-end: Division Chief Final Approval,Deploy Request,Normal,Division Chief of Mechanical: 'Applicant Name' Sorting Incorrectly,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/11/2024,09/30/2024,"","",0.00,0.00,100,09/11/2024 09:08 AM,"","Estrella, Bono James G.","","clipboard-202409110907-98pt5.png
+clipboard-202409131846-at4zd.png
+clipboard-202409170954-gteoi.png",09/13/2024,09/30/2024,09/13/2024,09/30/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43727,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,36403,Front-end: Division Chief Final Approval,Deploy Request,Normal,"Division Chief of Mechanical: Correct the spelling of ""atleast"" to "" at least"" in the 'Error Notification Message'","Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/10/2024,09/12/2024,"","",0.00,0.00,100,09/10/2024 11:39 AM,"","Estrella, Bono James G.","","clipboard-202409101138-1otjw.png
+clipboard-202409101458-s93tz.png
+clipboard-202409110905-vrvee.png
+clipboard-202409110908-dzj7n.png",09/12/2024,09/12/2024,09/12/2024,09/12/2024,WEB Online,"","","",Failed 5-min test,"",EASY,"Reyes, Kervin Terence V.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43423,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,36399,Front-end: Chief of Mechanical Approval,Deploy Request,Normal,Chief Mechanical: 'Applicant Name' Sorting Incorrectly,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/06/2024,09/10/2024,"","",0.00,0.00,100,09/06/2024 10:16 AM,"","Estrella, Bono James G.","","clipboard-202409061013-obacl.png
+clipboard-202409101856-fx11u.png
+clipboard-202409110903-zrcjf.png",09/10/2024,09/10/2024,09/10/2024,09/10/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43422,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,36395,Front-end: Create Inspection Report,Deploy Request,Normal,Mechanical Inspector: 'Applicant Name' Sorting Incorrectly,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",09/06/2024,09/10/2024,"","",0.00,0.00,100,09/06/2024 10:10 AM,"","Estrella, Bono James G.","","clipboard-202409061005-lkynq.png
+clipboard-202409061006-qvxvf.png
+clipboard-202409101849-kar2h.png
+clipboard-202409110859-nkrqz.png",09/10/2024,09/10/2024,09/10/2024,09/10/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+42461,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,36393,Front-end - Mechanical Officer Initial Evaluation,Deploy Request,Normal,'Mechanical Officer Evaluation' Section: Remarks Field not accepting valid (numeric and special characters) data,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/13/2024,09/11/2024,"","",0.00,0.00,100,08/13/2024 10:46 AM,"","Estrella, Bono James G.","","RemarksField.png
+clipboard-202409111810-4y7ey.png
+clipboard-202409130857-ndrma.png",08/15/2024,09/11/2024,08/15/2024,09/11/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+42784,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31499,OP-BE: OBO Chief,Deploy Request,Normal,'Basis of Assessment' Fields: Random Data Display Despite Empty Inputs,"Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/20/2024,09/16/2024,"","",0.00,0.00,100,08/20/2024 04:20 PM,"","Estrella, Bono James G.","","clipboard-202408201521-bkqrx.png
+clipboard-202408221038-tqn8y.png
+clipboard-202408221038-k2t63.png
+clipboard-202409121536-axnq1.png",08/22/2024,09/16/2024,08/22/2024,09/16/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+42763,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31151,OP-BE: Officer of the Day Evaluation,Deploy Request,Normal,"Evaluation Remarks of this module are not reflecting on the following evaluators (BFP Eval, ALL COC Inspection Accounts)","Castillo, QA Intern-Izar","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/20/2024,09/11/2024,"","",0.00,0.00,100,08/20/2024 01:07 PM,"","Estrella, Bono James G.","","clipboard-202408201220-nevoy.png
+clipboard-202408211736-ww8an.png
+clipboard-202409110952-s3mdf.png",08/22/2024,09/11/2024,08/22/2024,09/11/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Castillo, QA Intern-Izar",,"Estrella, Bono James G.",100,Task Ticket
+43057,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,35053,OP-FE: Chief of Inspection Final Review,Deploy Request,Normal,Search feature is not working,"Gatpo, Arriane Clarisse","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/29/2024,09/30/2024,"","",0.00,0.00,100,08/29/2024 10:21 AM,"","Estrella, Bono James G.","","clipboard-202408291020-x7wb9.png
+clipboard-202409031644-u1efq.png
+clipboard-202409031644-zqnmq.png
+clipboard-202409121123-6yh9t.png",08/30/2024,09/30/2024,08/30/2024,09/30/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Estrella, Bono James G.",100,Task Ticket
+43060,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31196,OP-FE: Chief Electrical Evaluation,Deploy Request,Normal,The sorting of the Date of Application is not working properly,"Gatpo, Arriane Clarisse","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/29/2024,09/30/2024,"","",0.00,0.00,100,08/29/2024 10:39 AM,"","Estrella, Bono James G.","","clipboard-202408291036-hqzjr.png
+clipboard-202409031647-kd0my.png
+clipboard-202409031647-aim62.png
+clipboard-202409121146-jzd5b.png",08/30/2024,09/30/2024,08/30/2024,09/30/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Estrella, Bono James G.",100,Task Ticket
+41651,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31139,BP-FE: Printing,Deploy Request,Normal,Overlapped texts,"Bulalacao, Julia Margarette A.","Ubag, Andrew James F.",03/26/2025 10:34 AM,"","",08/02/2024,09/30/2024,"","",0.00,0.00,100,08/02/2024 04:16 PM,"","Estrella, Bono James G.","","clipboard-202408021615-sjvsd.png
+clipboard-202408291545-pdme3.png
+clipboard-202410011104-9pkkh.png",08/07/2024,09/30/2024,08/07/2024,09/30/2024,WEB Online,"","","",Failed 5-min test,"",NORMAL,"Ubag, Andrew James F.",,,EASY,"Bulalacao, Julia Margarette A.",,"Estrella, Bono James G.",100,Task Ticket
+51461,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51460,Certificate of Occupancy Copy,Deploy Request,Normal,BE: Certificate of Occupancy Copy,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:33 AM,"","",02/03/2025,02/21/2025,"","",7.00,7.00,100,12/26/2024 06:04 PM,"","Estrella, Bono James G.","","clipboard-202502041252-vrspf.png
+clipboard-202502041254-fx5cp.png
+clipboard-202502201426-njq2l.png
+clipboard-202502201427-wrt9s.png
+bandicam 2025-03-04 19-00-43-243.mp4",01/09/2025,02/21/2025,01/30/2025,02/21/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Estrella, Bono James G.",100,Task Ticket
+51459,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51458,Final Assessment,Deploy Request,Normal,BE: Final Assessment,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:33 AM,"","",01/28/2025,03/06/2025,"","",12.25,12.25,100,12/26/2024 06:03 PM,"","Estrella, Bono James G.","","clipboard-202501281908-lz0rs.png
+clipboard-202501301214-mxcfh.png
+clipboard-202501301606-ycsno.png
+bandicam 2025-03-04 18-47-55-700.mp4
+clipboard-202503051846-fhloq.png
+clipboard-202503051851-ivi6e.png
+clipboard-202503061421-n0w5k.png
+Screenshot 2025-03-06 164506.png
+Screenshot 2025-03-06 163620.png",01/09/2025,03/06/2025,01/30/2025,03/06/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.","Gatpo, Arriane Clarisse","Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+51451,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51450,Fire Clearance Endorsement Form,Deploy Request,Normal,BE: Fire Clearance Endorsement Form,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 10:33 AM,"","",12/17/2024,03/14/2025,"","",3.00,3.00,100,12/26/2024 05:56 PM,"","Estrella, Bono James G.","","clipboard-202412171753-sjukh.png
+clipboard-202412271728-korbg.png
+clipboard-202412271750-s2vvj.png
+clipboard-202501131530-9hhmu.png
+Screen Recording 2025-01-13 181407.mp4
+clipboard-202501141303-lkrjm.png
+clipboard-202501141531-zrybn.png
+clipboard-202501141953-w35ia.png
+clipboard-202501142019-cs7zx.png
+clipboard-202501142026-41ic0.png
+51451.mp4
+51451 20250225.mp4
+clipboard-202502271626-c7ofx.png
+clipboard-202502271627-hj6lu.png
+clipboard-202503031117-sixyu.png
+bandicam 2025-03-04 18-02-05-885.mp4",01/09/2025,03/14/2025,01/30/2025,03/14/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+45349,Parañaque OBO Web (Online)_v1.0.0.a,Feedback,31420,Back-end: Excavation Chief of Evaluation,Deploy Request,Normal,Submit Application for Chief Evaluator is not working,"Gatpo, Arriane Clarisse","Ubag, Andrew James F.",03/26/2025 09:55 AM,"","",09/30/2024,10/04/2024,"","",0.00,0.00,100,09/30/2024 03:11 PM,"","Estrella, Bono James G.","","clipboard-202409301447-li8m0.png
+clipboard-202410011753-sfqpb.png
+clipboard-202410011758-myint.png
+clipboard-202410040951-jkyxk.png",10/04/2024,10/04/2024,10/04/2024,10/04/2024,WEB Online,"","","",Failed 5-min test,"",HARD,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Gatpo, Arriane Clarisse",100,Task Ticket
+51500,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51161,Occupancy Permit,New,Normal,BE: Occupancy Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 09:19 AM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,01/02/2025 08:33 AM,"","Estrella, Bono James G.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+51506,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51073,Building Permit,New,Normal,BE: Building Permit,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/26/2025 09:19 AM,"","",12/17/2024,01/09/2025,"","",0.00,0.00,0,01/02/2025 08:44 AM,"","Estrella, Bono James G.","","",01/09/2025,01/09/2025,01/30/2025,01/30/2025,WEB Online,"","","","","",NORMAL,,,,,,,,,Task Ticket
+59185,Parañaque OBO Internal Support,Deployment,59112,Week of March 24 to March 28,Deploy Request,Normal,DEPLOYMENT FOR 03-24-2025,"Cabrera, James Friam S.","Ubag, Andrew James F.",03/25/2025 03:37 PM,"","",03/24/2025,03/28/2025,"","",1.50,1.50,0,03/24/2025 02:13 PM,"","Cabrera, James Friam S.","","",03/25/2025,03/25/2025,03/28/2025,03/28/2025,WEB Online,"","","","","",EASY,"Ubag, Andrew James F.",,,"",,,,,Grouping Ticket
+58605,Parañaque OBO Web (Online)_v1.0.0.b,Feature,57475,Certificate Of Occupancy,Deploy Request,Normal,[03192025] BE: Add Affidavit of Change Engineer in Documents Uploading,"Cabrera, James Friam S.","Ubag, Andrew James F.",03/20/2025 04:51 PM,"","",03/19/2025,03/28/2025,"","",3.25,3.25,100,03/19/2025 11:40 AM,"","Agapito, Roma S.","","clipboard-202503191140-giolb.png
+clipboard-202503191822-vl4rw.png
+clipboard-202503201115-ve2bs.png
+clipboard-202503201115-iqalr.png",03/28/2025,03/28/2025,03/28/2025,03/28/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Gatpo, Arriane Clarisse",,"Cabrera, James Friam S.",100,Task Ticket
+56425,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51454,Per Discipline Inspector,Deploy Request,Normal,BE: LAG and Electronics Inspector: Remove Sample Boxes,"Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/27/2025,03/07/2025,"","",9.00,9.00,100,02/28/2025 04:12 PM,"","Estrella, Bono James G.","","clipboard-202502281549-qcrle.png
+clipboard-202503041706-hg48j.png
+clipboard-202503041730-2dnfm.png
+clipboard-202503051855-ur9g7.png",03/07/2025,03/07/2025,03/07/2025,03/07/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+55991,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51454,Per Discipline Inspector,Deploy Request,Normal,"BE: Per Discipline Inspector: Add Tagging if Compliant, For Compliance or Not Required","Ramon Jao, Jeremaine Lindsly N.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",03/03/2025,03/07/2025,"","",8.00,8.00,100,02/27/2025 10:57 AM,"","Estrella, Bono James G.",Related to #51453,"clipboard-202503031235-snu2o.png
+clipboard-202503031236-57z39.png
+clipboard-202503031237-syvk2.png
+clipboard-202503051601-7w9kp.png
+clipboard-202503051601-f3sjr.png
+55991 250306.mp4",02/28/2025,02/28/2025,02/28/2025,02/28/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+55843,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal, Add Tab to display all applications,"Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/25/2025,03/14/2025,"","",3.00,3.00,100,02/25/2025 04:31 PM,"","Estrella, Bono James G.","","clipboard-202502261756-cdnag.png
+clipboard-202503031050-slxis.png
+55843 250306.mp4",03/03/2025,03/14/2025,03/05/2025,03/14/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Gatpo, Arriane Clarisse",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+55768,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal, Add viewer of Inspection Report in applicant access,"Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/25/2025,03/14/2025,"","",4.00,4.00,100,02/25/2025 09:30 AM,"","Estrella, Bono James G.","","clipboard-202502261758-f3kfd.png
+clipboard-202502261759-gjmyk.png
+clipboard-202503051823-8lof2.png
+clipboard-202503051823-gj8hc.png
+55768 250306.mp4",02/03/2025,03/14/2025,02/05/2025,03/14/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+55323,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,"Submission of documents, per discipline","Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/24/2025,03/14/2025,"","",25.00,25.00,100,02/17/2025 03:12 PM,"","Estrella, Bono James G.","","clipboard-202502241924-88hbo.png
+clipboard-202502241924-gn9el.png
+clipboard-202502241925-lytan.png
+clipboard-202503051811-k9dgp.png
+55323 250306.mp4",02/24/2025,03/14/2025,02/25/2025,03/14/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+54780,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,Display all applications with For Compliance,"Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/11/2025,03/06/2025,"","",4.50,4.50,100,02/11/2025 10:49 AM,"","Estrella, Bono James G.","","clipboard-202502111607-bdtee.png
+clipboard-202502171358-va3ja.png
+54780 250306.mp4
+clipboard-202503061759-fqyue.png
+Screenshot 2025-03-06 184738.png
+Screenshot 2025-03-06 184759.png
+clipboard-202503061933-8x30m.png
+clipboard-202503061934-2gzpv.png
+Screenshot 2025-03-06 184759.png
+54780 250306 12.mp4
+54780 250306 11.mp4",02/17/2025,03/06/2025,02/18/2025,03/06/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.","Gatpo, Arriane Clarisse","Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+54778,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,"Add new tab (For Compliance), copy table from inspection monitoring (Remove Time In/Out, Additional Requirements, Inspected By). Add column for Attachment and Remarks","Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/11/2025,02/21/2025,"","",3.00,3.00,100,02/11/2025 10:47 AM,"","Estrella, Bono James G.","","clipboard-202502111551-ltsyk.png
+clipboard-202502201551-4cqiz.png
+54468.mp4",02/17/2025,02/21/2025,02/18/2025,02/21/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+54776,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,Approval of discipline involved,"Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/11/2025,03/14/2025,"","",7.00,7.00,100,02/11/2025 10:34 AM,"","Estrella, Bono James G.",Related to #54775,"clipboard-202502261754-jwofo.png
+clipboard-202502282100-qijpd.png
+clipboard-202503051810-qgd18.png
+clipboard-202503051811-olsil.png
+54775 250306.mp4",02/17/2025,03/14/2025,02/18/2025,03/14/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+54775,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,"Uploading of submitted documents,","Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/11/2025,03/14/2025,"","",9.00,9.00,100,02/11/2025 10:33 AM,"","Estrella, Bono James G.",Related to #54776,"clipboard-202502111557-6tmed.png
+clipboard-202503051809-q2oan.png
+clipboard-202503051810-3asmm.png
+54775 250306.mp4",02/17/2025,03/14/2025,02/18/2025,03/14/2025,WEB Online,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+54468,Parañaque OBO Web (Online)_v1.0.0.a,Feature,51453,BE: Inspection Monitoring,Deploy Request,Normal,Add new tab (For Compliance),"Ubag, Andrew James F.","Ubag, Andrew James F.",03/17/2025 10:14 AM,"","",02/24/2025,03/14/2025,"","",16.50,16.50,100,02/06/2025 12:05 PM,"","Estrella, Bono James G.","","clipboard-202502100903-nhmm0.png
+clipboard-202502110958-zdjtg.png
+clipboard-202502241923-cecej.png
+clipboard-202502241923-1bylh.png
+clipboard-202503051549-yzprd.png
+clipboard-202503051549-6gg0q.png
+54468.mp4",02/11/2025,03/14/2025,02/11/2025,03/14/2025,WEB Local,"","","","","",HARD,"Ubag, Andrew James F.",,Regular Hour,EASY,"Estrella, Bono James G.",,"Ramon Jao, Jeremaine Lindsly N.",100,Task Ticket
+57377,Parañaque OBO Web (Online)_v1.0.0.a,Feature,57375,ELECTRICAL (OBO FEEDBACK),Deploy Request,Normal,BE: Application Form Changes,"Caranto, Oliver Knight S.","Ubag, Andrew James F.",03/14/2025 05:44 PM,"","",03/08/2025,03/14/2025,"","",4.50,4.50,50,03/08/2025 11:43 AM,"","Flores, Maricel F.","","clipboard-202503111657-3qgyh.png
+clipboard-202503111737-qxkav.png
+clipboard-202503131346-vkhen.png
+clipboard-202503131347-ubgoe.png
+clipboard-202503131347-uxejh.png
+clipboard-202503131349-8ndfs.png
+clipboard-202503131349-kfm52.png
+clipboard-202503131350-6qa51.png
+clipboard-202503131412-jgrlp.png
+clipboard-202503131415-f8g7q.png
+clipboard-202503131415-57sot.png
+clipboard-202503131554-slw5i.png
+clipboard-202503131554-iypzt.png
+clipboard-202503131648-na2p8.png",03/10/2025,03/10/2025,03/14/2025,03/14/2025,WEB Online,"","","","","",NORMAL,"Ubag, Andrew James F.",,,EASY,"Estrella, Bono James G.",,"Cabrera, James Friam S.",100,Task Ticket
