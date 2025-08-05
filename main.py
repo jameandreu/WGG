@@ -209,11 +209,11 @@ def extract_data_from_this_week(df):
 
     if 'Week' in df.columns:
         tasks_this_week = df[df['Week'] == current_week].drop_duplicates(subset=['Issue'])
-    elif 'Due date' in df.columns:
-        # Ensure 'Due date' is datetime
-        df['Due date'] = pd.to_datetime(df['Due date'], errors='coerce')
-        df['Week'] = df['Due date'].dt.isocalendar().week
-        df['Year'] = df['Due date'].dt.isocalendar().year
+    elif 'Start date' in df.columns:
+        # Ensure 'Start date' is datetime
+        df['Start date'] = pd.to_datetime(df['Start date'], errors='coerce')
+        df['Week'] = df['Start date'].dt.isocalendar().week
+        df['Year'] = df['Start date'].dt.isocalendar().year
         # print("COLUMNS!!!" + df.columns)
         tasks_this_week = df[(df['Week'] == current_week) & (df['Year'] == current_year)].drop_duplicates(subset=['#'])
     else:
@@ -224,8 +224,8 @@ def extract_data_from_this_week(df):
 def process_data(tasks_this_week):
     
     reference_date = 'Date'
-    if 'Due date' in tasks_this_week.columns:
-        reference_date = 'Due date'
+    if 'Start date' in tasks_this_week.columns:
+        reference_date = 'Start date'
 
 
 
