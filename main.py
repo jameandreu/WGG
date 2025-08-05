@@ -1,4 +1,3 @@
-from rich.console import Console
 import logging
 from enum import Enum
 from typing import Optional, Callable
@@ -38,7 +37,7 @@ class MenuChoice(Enum):
     END_OF_WEEK_SUMMARY = 3
     QUIT = 4
     
-class workWeek(Enum):
+class Workweek(Enum):
     SUNDAY = 0
     MONDAY = 1
     TUESDAY = 2
@@ -47,7 +46,7 @@ class workWeek(Enum):
     FRIDAY = 5
     SATURDAY = 6
 
-class difficulty(Enum):
+class Difficulty(Enum):
     EASY = 2
     NORMAL = 3
     HARD = 8
@@ -59,9 +58,9 @@ def print_summary(df):
     total = 0    
     
     raw = {
-        difficulty.EASY: ('EASY', df[df['Level of Difficulty (Dev)'] == 'EASY']),
-        difficulty.NORMAL: ('NORMAL', df[df['Level of Difficulty (Dev)'] == 'NORMAL']),
-        difficulty.HARD: ('HARD', df[df['Level of Difficulty (Dev)'] == 'HARD'])
+        Difficulty.EASY: ('EASY', df[df['Level of Difficulty (Dev)'] == 'EASY']),
+        Difficulty.NORMAL: ('NORMAL', df[df['Level of Difficulty (Dev)'] == 'NORMAL']),
+        Difficulty.HARD: ('HARD', df[df['Level of Difficulty (Dev)'] == 'HARD'])
     }
     
     for level_enum, (level_name, level_df) in raw.items():
@@ -87,7 +86,7 @@ def read_csv_file(file_path):
     for encoding in encodings:
         try:
             print(f"Trying encoding: {encoding}")
-            df = pd.read_csv(file_path, encoding=encoding)
+            pd.read_csv(file_path, encoding=encoding)
             console.print(f"[green]Successfully read with encoding: {encoding}[/green]")
             break
         except UnicodeDecodeError:
@@ -95,7 +94,7 @@ def read_csv_file(file_path):
     else:
         # If none of the encodings work, try with error handling
         try:
-            df = pd.read_csv(file_path, encoding='utf-8', errors='ignore')
+            pd.read_csv(file_path, encoding='utf-8')
             console.print(f"[green]Read with UTF-8 and ignored errors[/green]")
         except Exception as e:
             console.print(f"[red]Failed to read file with any encoding:[/red] : {e}")
@@ -257,11 +256,11 @@ def process_data(tasks_this_week):
     filtered = tasks_this_week[(tasks_this_week['Tracker'].str.lower() != 'deployment') & (tasks_this_week['Status'].str.lower() != 'deploy request')]
 
     days = [
-        (workWeek.MONDAY, 'Monday'),
-        (workWeek.TUESDAY, 'Tuesday'),
-        (workWeek.WEDNESDAY, 'Wednesday'),
-        (workWeek.THURSDAY, 'Thursday'),
-        (workWeek.FRIDAY, 'Friday'),
+        (Workweek.MONDAY, 'Monday'),
+        (Workweek.TUESDAY, 'Tuesday'),
+        (Workweek.WEDNESDAY, 'Wednesday'),
+        (Workweek.THURSDAY, 'Thursday'),
+        (Workweek.FRIDAY, 'Friday'),
     ]
 
     raw = {
@@ -280,11 +279,11 @@ def merge_raws(raw1, raw2):
     
     
     ordered_keys = [
-        workWeek.MONDAY,
-        workWeek.TUESDAY,
-        workWeek.WEDNESDAY,
-        workWeek.THURSDAY,
-        workWeek.FRIDAY,
+        Workweek.MONDAY,
+        Workweek.TUESDAY,
+        Workweek.WEDNESDAY,
+        Workweek.THURSDAY,
+        Workweek.FRIDAY,
     ]
 
     for key in ordered_keys:
