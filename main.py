@@ -51,18 +51,25 @@ class Difficulty(Enum):
     NORMAL = 3
     HARD = 8
 
+
+class WorkType(Enum):
+    OVERTIME = "Overtime"
+    REGULAR_HOUR = "Regular Hour"
+
+
+
 def print_summary(df):
     easy = 0
     normal = 0
     hard = 0
-    total = 0    
-    
+    total = 0
+
     raw = {
         Difficulty.EASY: ('EASY', df[df['Level of Difficulty (Dev)'] == 'EASY']),
         Difficulty.NORMAL: ('NORMAL', df[df['Level of Difficulty (Dev)'] == 'NORMAL']),
         Difficulty.HARD: ('HARD', df[df['Level of Difficulty (Dev)'] == 'HARD'])
     }
-    
+
     for level_enum, (level_name, level_df) in raw.items():
         count = len(level_df)
         if level_name == "EASY":
@@ -72,13 +79,60 @@ def print_summary(df):
         elif level_name == "HARD":
             hard += count
         total += count
-    print() 
-    print(f"SUMMARY:")   
+    print()
+    print(f"SUMMARY:")
     print(f"EASY: {easy}")
     print(f"NORMAL: {normal}")
     print(f"HARD: {hard}")
     print(f"Grand Total: {total}")
-    
+
+
+def print_eow_summary(tasks_for_this_week):
+    # Separate by work type first
+    work_types = {
+        WorkType.REGULAR_HOUR: tasks_for_this_week[tasks_for_this_week['Work Type'] == 'Regular Hour'],
+        WorkType.OVERTIME: tasks_for_this_week[tasks_for_this_week['Work Type'] == 'Overtime']
+    }
+
+    output.write("\n")
+    output.write("SUMMARY:\n")
+
+    for work_type_enum, work_type_df in work_types.items():
+        easy = 0
+        normal = 0
+        hard = 0
+
+        # Filter by difficulty within each work type
+        raw = {
+            Difficulty.EASY: ('EASY', work_type_df[work_type_df['Level of Difficulty (Dev)'] == 'EASY']),
+            Difficulty.NORMAL: ('NORMAL', work_type_df[work_type_df['Level of Difficulty (Dev)'] == 'NORMAL']),
+            Difficulty.HARD: ('HARD', work_type_df[work_type_df['Level of Difficulty (Dev)'] == 'HARD'])
+        }
+
+        for level_enum, (level_name, level_df) in raw.items():
+            count = len(level_df)
+            if level_name == "EASY":
+                easy += count
+            elif level_name == "NORMAL":
+                normal += count
+            elif level_name == "HARD":
+                hard += count
+
+        # Print results for this work
+        output.write("\n")
+        output.write(f"{work_type_enum.value}:\n")
+        output.write(f"EASY: {easy}\n")
+        output.write(f"NORMAL: {normal}\n")
+        output.write(f"HARD: {hard}\n")
+
+
+
+    formatted_output = output.getvalue()
+    pyperclip.copy(formatted_output)
+    console.print(formatted_output)
+    console.print("[green]Output successfully copied to clipboard 📋📋📋[/green]")
+
+
 def read_csv_file(file_path):
 
     encodings = ['utf-8', 'latin-1', 'windows-1252', 'iso-8859-1', 'cp1252']
@@ -195,7 +249,6 @@ def print_output(raw_data):
     output.write(f"Grand Total: {total}\n")
     
     formatted_output = output.getvalue()
-    output.close()
     pyperclip.copy(formatted_output)
     console.print(formatted_output)
     console.print("[green]Output successfully copied to clipboard 📋📋📋[/green]")
@@ -203,7 +256,7 @@ def print_output(raw_data):
 def extract_data_from_this_week(df):
     today = date.today()
     current_week = today.isocalendar().week
-    # current_week = 29
+    # current_week = 32
     current_year = today.isocalendar().year
 
     if 'Week' in df.columns:
@@ -321,23 +374,12 @@ def generate_weekly_goals():
     console.print(panel)
     
     # Simulate processing with a progress bar
-    with Progress(
-        SpinnerColumn(),
-        TextColumn("[progress.description]{task.description}"),
-        console=console,
-        transient=True
-    ) as progress:
-        task = progress.add_task("Processing CSV files...", total=None)
-        df = read_csv_file('redmine/timelog.csv')
-        time.sleep(1)  
-        progress.update(task, description="Generating weekly goals...")
-        tasks_this_week = extract_data_from_this_week(df)
-        raw = process_data(tasks_this_week)
+    raw = process_csv_with_progress('redmine/timelog.csv')
         
         
-        time.sleep(1)
-        print_output(raw)
-        # print_summary(tasks_this_week)
+    time.sleep(1)
+    print_output(raw)
+    # print_summary(tasks_this_week)
     
     # Success message
     success_panel = Panel(
@@ -347,29 +389,22 @@ def generate_weekly_goals():
         padding=(0, 2)
     )
     console.print(success_panel)
+
+
+
+
 def eow_feature():
-    # logger.info("User selected: Compare feature")
-    
-    # # Create a warning panel for unimplemented feature
-    # panel = Panel(
-    #     "[bold yellow]🚧 Feature Under Development[/bold yellow]\n\n"
-    #     "This feature is not implemented yet...\n"
-    #     "[dim]This will be available in a future update.[/dim]",
-    #     title="[bold yellow]EOW Summary Feature[/bold yellow]",
-    #     border_style="yellow",
-    #     padding=(1, 2)
-    # )
-    # console.print(panel)
-    
-    
+
     """Handle weekly goals generation"""
     logger.info("User selected: End of Week Summary")
     
     # Create a beautiful panel for the task
     panel = Panel(
         "[bold green]📈 End of Week Summary[/bold green]\n\n"
-        "Please put your redmine CSV to [bold cyan]redmines folder[/bold cyan]...\n"
-        "[yellow]⚠️  Make sure to check [bold][u]ALL COLUMNS AND CHOOSE ENCODING: UTF-8[/u][/bold] when exporting tickets[/yellow]",
+        "This feature accepts csv from your timelogs\n"
+        "Please put your timelog.csv to [bold cyan]redmines folder[/bold cyan]...\n"
+        "[yellow]⚠️  Make sure to check [bold][u]ALL COLUMNS AND CHOOSE ENCODING: UTF-8[/u][/bold] when exporting tickets[/yellow]"
+        "[yellow]⚠️⚠️️  Make sure to name your file [bold][u]timeslog.csv[/u][/bold][/yellow]",
         
         title="[bold blue]Task Instructions[/bold blue]",
         border_style="green",
@@ -387,28 +422,31 @@ def eow_feature():
         task = progress.add_task("Processing CSV files...", total=None)
         df = read_csv_file('redmine/timelog.csv')
         time.sleep(1)  
+        progress.update(task, description="Extracting current week redmines")
+        tasks_this_week = extract_data_from_this_week(df)
+        time.sleep(1)
+        progress.update(task, description="Generating weekly goals...")
+        print_eow_summary(tasks_this_week)
+
+def process_csv_with_progress(csv_path, description="Processing CSV files..."):
+    """Process CSV file with progress bar"""
+    with Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        console=console,
+        transient=True
+    ) as progress:
+        task = progress.add_task(description, total=None)
+        df = read_csv_file(csv_path)
+        time.sleep(1)
         progress.update(task, description="Generating weekly goals...")
         tasks_this_week = extract_data_from_this_week(df)
-        # raw = process_data(tasks_this_week)
-        
-        
+        raw = process_data(tasks_this_week)
         time.sleep(1)
-        # print_output(raw)
-        print_summary(tasks_this_week)
+        return raw
 def compare_feature():
     """Handle compare feature"""
-    # logger.info("User selected: Compare feature")
-    
-    # # Create a warning panel for unimplemented feature
-    # panel = Panel(
-    #     "[bold yellow]🚧 Feature Under Development[/bold yellow]\n\n"
-    #     "This feature is not implemented yet...\n"
-    #     "[dim]This will be available in a future update.[/dim]",
-    #     title="[bold yellow]Compare Feature[/bold yellow]",
-    #     border_style="yellow",
-    #     padding=(1, 2)
-    # )
-    # console.print(panel)
+
     
     
     logger.info("User selected: Merge feature")
@@ -427,36 +465,13 @@ def compare_feature():
     console.print(panel)
     
     # Simulate processing with a progress bar
-    with Progress(
-        SpinnerColumn(),
-        TextColumn("[progress.description]{task.description}"),
-        console=console,
-        transient=True
-    ) as progress:
-        task = progress.add_task("Processing CSV files...", total=None)
-        df = read_csv_file('redmine/timelog.csv')
-        time.sleep(1)  
-        progress.update(task, description="Generating weekly goals...")
-        tasks_this_week = extract_data_from_this_week(df)
-        raw1 = process_data(tasks_this_week)
-        
-    with Progress(
-        SpinnerColumn(),
-        TextColumn("[progress.description]{task.description}"),
-        console=console,
-        transient=True
-    ) as progress:
-        task = progress.add_task("Processing CSV files...", total=None)
-        df = read_csv_file('redmine/issues.csv')
-        time.sleep(1)  
-        progress.update(task, description="Generating weekly goals...")
-        tasks_this_week = extract_data_from_this_week(df)
-        raw2 = process_data(tasks_this_week)
+    raw1 = process_csv_with_progress('redmine/timelog.csv')
+    raw2 = process_csv_with_progress('redmine/issues.csv')
         
         
-        time.sleep(1)
-        raw = merge_raws(raw1, raw2)
-        print_output(raw)
+
+    raw = merge_raws(raw1, raw2)
+    print_output(raw)
 
 def quit_application():
     """Handle application exit"""
@@ -491,7 +506,7 @@ def display_menu():
     # Add menu items
     table.add_row("1", "📊 Generate Weekly Goals", "✅ Ready")
     table.add_row("2", "🔍 Compare", "✅ Ready")
-    table.add_row("3", "📈 End of Week Summary", "🚧 Coming Soon")
+    table.add_row("3", "📈 End of Week Summary", "✅ Ready")
     table.add_row("4", "🚪 Quit", "✅ Ready")
     
     # Create a panel around the table
