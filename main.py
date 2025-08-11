@@ -89,13 +89,26 @@ def print_summary(df):
 
 def print_eow_summary(tasks_for_this_week):
     # Separate by work type first
+    today = date.today()
+    iso_year, iso_week, _ = today.isocalendar()
+    # Calculate Monday of the ISO week
+    monday = date.fromisocalendar(iso_year, iso_week, 1)  # 1 = Monday
+    # Calculate Friday of the ISO week
+    friday = date.fromisocalendar(iso_year, iso_week, 5)  # 5 = Friday
+    month_name = monday.strftime("%B")
+
+
     work_types = {
         WorkType.REGULAR_HOUR: tasks_for_this_week[tasks_for_this_week['Work Type'] == 'Regular Hour'],
         WorkType.OVERTIME: tasks_for_this_week[tasks_for_this_week['Work Type'] == 'Overtime']
     }
 
     output.write("\n")
-    output.write("SUMMARY:\n")
+    output.write("END OF WEEK SUMMARY:\n")
+
+
+    output.write(f"Ubag, Andrew - JWD - {month_name} {monday.day}-{friday.day}, {iso_year}\n")
+    output.write("\n")
 
     for work_type_enum, work_type_df in work_types.items():
         easy = 0
