@@ -425,7 +425,7 @@ def eow_feature():
         progress.update(task, description="Extracting current week redmines")
         tasks_this_week = extract_data_from_this_week(df)
         time.sleep(1)
-        progress.update(task, description="Generating weekly goals...")
+        progress.update(task, description="Generating End of Week Summary...")
         print_eow_summary(tasks_this_week)
 
 def process_csv_with_progress(csv_path, description="Processing CSV files..."):
